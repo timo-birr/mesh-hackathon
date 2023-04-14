@@ -18,7 +18,7 @@ __pycache__/
 bin/
 build/
 dist/
-egg-info/
+*egg-info/
 lib/
 local/
 node_modules/

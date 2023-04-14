@@ -1,0 +1,12 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/

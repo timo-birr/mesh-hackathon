@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+mesh_heckathon.egg-info/PKG-INFO
+mesh_heckathon.egg-info/SOURCES.txt
+mesh_heckathon.egg-info/dependency_links.txt
+mesh_heckathon.egg-info/top_level.txt

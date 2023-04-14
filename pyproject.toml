@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mesh-heckathon"
+authors = [
+    {name = "Tim Zechmeister", email = "tim@zechmeister-net.de"},
+]
+description = "Fisher solution for mesh hachathon"
+readme = "README.rst"
+requires-python = ">=3.9"
+keywords = ["Fisher", "data"]
+classifiers = [
+    "Programming Language :: Python :: 3.9",
+]
+dynamic = ["version"]
+
+[tool.setuptools.dynamic]
+version = {attr = "mesh-hackathon.VERSION"}

@@ -22,3 +22,5 @@ dist/
 lib/
 local/
 node_modules/
+
+key

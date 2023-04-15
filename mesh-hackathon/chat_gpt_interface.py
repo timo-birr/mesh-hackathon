@@ -3,17 +3,24 @@ from langchain.chat_models import ChatOpenAI
 import gradio as gr
 import sys
 import os
+import openai
 import deepl
 data_dir = "data_processed"
 index_filename = "index.json"
 key_filename = "key"
 id_index = "index.json"
+model = "gpt-3.5-turbo-0301"
 
 
 max_input_size = 65536
 num_outputs = 4096
 max_chunk_overlap = 30
 chunk_size_limit = 50
+
+preparation = {"role": "system", "content": "Verändere den folgenden Text statt der angabe der ID ein "
+                                                         "html hyperlink zu https://www.fischer.de/de-de/produkte/ID "
+                                                         "genannt wird. Gib auschließlich den veränderten Text zurück."}
+
 
 with open(key_filename, 'r') as file:
     key_string = file.read()
@@ -77,6 +84,13 @@ class ChatBot:
         print(output_string)
         return output_string
 
+    def prepare_output_ai(self, ouput_text):
+        response = openai.ChatCompletion.create(
+            model=model,
+            messages=[preparation, {"role": "user", "content": ouput_text}],
+            temperature=0,
+        )
+        return response["choices"][0]["message"]["content"]
 
     def chat(self, input_text):
 
@@ -86,7 +100,7 @@ class ChatBot:
         self.context.append("Nutzer: " + input_text)
         input_text = self.prepare_input(input_text)
         response = self.index.query(input_text,similarity_top_k=20,response_mode="compact")
-        response = self.prepare_output(response.response)
+        response = self.prepare_output_ai(response.response)
         # response = self.id_bot.query(input_text, response_mode="compact")
         self.context.append("Assistent: " + response)
         return response

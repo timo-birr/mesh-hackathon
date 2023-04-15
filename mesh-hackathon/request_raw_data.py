@@ -3,6 +3,7 @@ import os
 
 import requests
 
+
 url_all_categories = "https://fischer-sitecore-cat.smartcommerce.se/v1/categories/FIWE/de_DE"
 url_format_category = "https://fischer-sitecore-cat.smartcommerce.se/v1/categories/{category}/FIWE/de_DE"
 url_format_product = "https://fischer-sitecore-cat.smartcommerce.se/v1/products/{product}/FIWE/de_DE"
@@ -33,8 +34,7 @@ def save_json(path, file_name, data):
 
 
 def recursive(data, path):
-    keys = data.keys()
-    if str_child_categories in keys:
+    if str_child_categories in data:
         list_child_categories = data[str_child_categories]
         for category in list_child_categories:
             print("ChildCategories:", category)
@@ -42,7 +42,7 @@ def recursive(data, path):
             data_category = get_data(url_format_category.format(category=category))
             save_json(path_child_category, category, data_category)
             recursive(data_category, path_child_category)
-    elif str_products_ids in keys:
+    elif str_products_ids in data:
         list_product_ids = data[str_products_ids]
         product_path = join_path_makedirs(path, "products")
         for product in list_product_ids:

@@ -27,9 +27,9 @@ def clean_html_tags(text):
 
 
 def process_value(d):
-    if 'Value' in d.keys():
+    if 'Value' in d:
         return d['Value']
-    elif 'ValueList' in d.keys():
+    elif 'ValueList' in d:
         return d['ValueList']
 
 
@@ -44,10 +44,10 @@ def recursive(path, parent_categories):
             product_data = read_json(product_file_path)
 
             product_id = product_data[str_product_id]
-            product_name = product_data[str_product_name] if str_product_name in product_data.keys() else ""
+            product_name = product_data[str_product_name] if str_product_name in product_data else ""
             test_list_values = [clean_html_tags(d['Value']) for d in product_data[str_test_list]]
-            if str_attributes in product_data.keys():
-                attributes_list = [f"{d['AttributeName']}: {process_value(d)} {d['Unit']}" if "Unit" in d.keys()
+            if str_attributes in product_data:
+                attributes_list = [f"{d['AttributeName']}: {process_value(d)} {d['Unit']}" if "Unit" in d
                                    else f"{d['AttributeName']}: {process_value(d)}"
                                    for d in product_data[str_attributes]]
                 attributes_list = [clean_html_tags(text) for text in attributes_list]

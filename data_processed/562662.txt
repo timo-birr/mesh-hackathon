@@ -1,0 +1,31 @@
+Diese Datei beschreibt das Produkt PFCN 41 A4 mit der ID 562662
+PFCN 41 A4
+PFCN 41 A4
+fischer Durchsteckverbinder PFCN 41 A4
+Konstruktionselement - Durchsteckverbinder PFCN.
+Das fischer Durchsteckverbinder PFCN 41 dient zur Gestaltung von einfachen Schienenkonstruktionen.
+Konstruktionselement - Durchsteckverbinder PFCN.
+AnwendungenVerbindung von FUS-Schienen und Konstruktionselementen mittels DurchsteckprinzipUniverselle Verwendung für alle Durchsteck-Konstruktionselemente und FUS-ProfileIm Innen- und Außenbereich und in Umgebungen mit hoher Materialbeanspruchung durch Korrosion
+EigenschaftenWerkstoff Deckel: Edelstahl A4 Werkstoff-Nr. 1.4401, nach DIN EN 10088-3Werkstoff Schiebemutter: Edelstahl A4 Werkstoff-Nr. 1.4401, nach DIN EN 10088-3Werkstoff Sechskantschraube: Edelstahl A4 Werkstoff-Nr. 1.4401, 8.8 M10-28 DIN 933Werkstoff Kunststoffteile: Polypropylen
+Top FeaturesEinfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41.Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der Schiene.Anwendungsgerechter Korrosionsschutz durch Edelstahlausführung.Zur Anwendung im Innen- und Außenbereich.
+VorteileDie genaue Passform von Durchsteck-Verbindern und Konstruktionselementen ermöglicht eine schnelle und einfache Schienenverbindung.Die Federwirkung des PFCN gewährleistet im gesetzten Zustand eine einfache und präzise Positionierung in der Schiene.Die Verzahnung des Durchsteck-Verbinders gibt sicheren Halt in der FUS-Schiene.Die Montage mittels Drehung um 90° ermöglicht generell das nachträgliche Einsetzen in eingebaute FUS-Schienen.Die Edelstahloberfläche sorgt für einen hohen Korrosionsschutz gegen Umwelteinflüsse wie beispielsweise Feuchtigkeit, Wasser, Salzwasser und andere korrosive Stoffe.
+Funktionsweise / Montage
+Einfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41.
+Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der Schiene.
+Anwendungsgerechter Korrosionsschutz durch Edelstahlausführung.
+Zur Anwendung im Innen- und Außenbereich.
+Gewinde: M10
+Max. empfohlene zentr. Zuglast für FUS 1,5 mm: 4,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,0 mm: 5,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,5 mm: 7,0 [kN]
+Max. empfohlener Querzug für FUS 1,5 mm: 4,0 [kN]
+Max. empfohlener Querzug für FUS 2,0 mm: 4,5 [kN]
+Max. empfohlener Querzug für FUS 2,5 mm: 5,0 [kN]
+Anzugsdrehmoment bei Schraubengüte ≥ 8.8: 40 [N·m]
+Menge: 25 [Stück]
+GTIN (EAN-Code): 4048962443189
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Verbindungselemente
+Das Produkt ist von der Kategorie Durchsteck-Verbinder PFCN

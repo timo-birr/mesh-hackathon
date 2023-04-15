@@ -1,0 +1,27 @@
+Diese Datei beschreibt das Produkt PFAF 3 mit der ID 533736
+PFAF 3
+PFAF 3
+fischer Verbindungselement PFAF 3
+Konstruktionselemente - Verbindungselemente PFAF
+Das fischer Verbindungselement PFAF 3 dient zur Gestaltung von einfachen Schienenkonstruktionen.
+Konstruktionselemente - Verbindungselemente PFAF
+AnwendungenMontageelemente zur Gestaltung von einfachen Schienenkonstruktionen für das Durchstecksystem
+EigenschaftenWerkstoff: Stahl DD11 (Werkstoff-Nr. 1.0332) nach DIN EN 10111Verzinkung: galvanisch verzinkt nach DIN 50979, mind. 8 µm
+Top FeaturesEinfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der SchieneAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDie Lochung der Verbindungselemente gewährleistet den Systemfit mit der Durchsteck-Schiebemutter PFCN.
+Funktionsweise / Montage
+Einfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41
+Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der Schiene
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Max. empfohlene zentr. Zuglast für FUS 2,0 mm: 5,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,5 mm: 7,0 [kN]
+Max. empfohlener Querzug: 3,5 [kN]
+Anzugsdrehmoment bei Schraubengüte ≥ 8.8: 40 [N·m]
+Menge: 25 [Stück]
+GTIN (EAN-Code): 4048962225013
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Konstruktionselemente
+Das Produkt ist von der Kategorie Verbindungselement PFAF

@@ -1,0 +1,26 @@
+Diese Datei beschreibt das Produkt FMFS M mit der ID 547861
+FMFS M
+FMFS M
+fischer Festpunkte Sattel FMFS M
+Der Festpunkte-Sattel FMFS S und M ist das unterstützende Element zur Fixierung bei thermischer Rohrausdehnung
+Die Festpunkte und Gleitelemente des fischer Massiven Schienensystems FMS sind unterstützende Elemente zur Fixierung und Aufnahme bei thermischer Rohrausdehnung. Der Massive-Rohrbügel FMFS UB befestigt zuverlässig die Rohrschuhe FMPS und den Festpunkt-Sattel FMFS sowie das Gleitelement FMFS zur Erstellung von Festpunkten oder Gleitlagern beim Anbau an das Montageprofil FMP. Die Passgenauigkeit der Elemente des FMS Systems durch angepasste Bauhöhen oder Distanzstücke ermöglicht eine einfache Herstellung der erforderlichen Fest- und Gleitelemente.
+Der Festpunkte-Sattel FMFS S und M ist das unterstützende Element zur Fixierung bei thermischer Rohrausdehnung
+AnwendungenFixierung von Rohrleitungen bei thermischen Ausdehnungen.Zur Verwendung mit der Rohrschelle FMFSC als Fixpunkt. Bis zu 3 Rohrschellen in Reihe möglich.
+EigenschaftenWerkstoff: Stahl S235JR (Werkstoff Nr. 1.0038) nach DIN EN 10025-2Werkstoff Mutter: Stahlfestigkeitsklasse 8Verzinkung: feuerverzinkt, min. 55 µm, nach DIN EN ISO 1461Werkstoff Schraube: Stahl 8.8
+Top FeaturesDer modulare Aufbau des Festpunktsattels mit 2 Bauhöhen erlaubt eine optimale Anpassung an das Lastniveau und die Rohrdimension.Der Festpunktsattel ermöglicht durch die Langlochverbindungen eine gute und einfache Höhen- und Neigungsjustierung.
+VorteileDer modulare Aufbau des Festpunktsattels mit 2 Bauhöhen erlaubt eine optimale Anpassung an das Lastniveau und die Rohrdimension.Der Festpunktsattel ermöglicht durch die Langlochverbindungen eine gute und einfache Höhen- und Neigungsjustierung.
+Funktionsweise / Montage
+Der modulare Aufbau des Festpunktsattels mit 2 Bauhöhen erlaubt eine optimale Anpassung an das Lastniveau und die Rohrdimension.
+Der Festpunktsattel ermöglicht durch die Langlochverbindungen eine gute und einfache Höhen- und Neigungsjustierung.
+Länge: 140 [mm]
+Breite: 54 [mm]
+Gesamthöhe: 175 - 240 [mm]
+Loch-Ø: 17 [mm]
+Stärke: 6,0 [mm]
+Menge: 2 [Stück]
+GTIN (EAN-Code): 4048962339260
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem massiv FMS
+Das Produkt ist von der Kategorie Festpunkt und Gleitelemente
+Das Produkt ist von der Kategorie Festpunkte-Sattel FMFS S und M

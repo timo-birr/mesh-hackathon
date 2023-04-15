@@ -1,0 +1,23 @@
+Diese Datei beschreibt das Produkt SBS M 8 mit der ID 079685
+SBS M 8
+SBS M 8
+fischer Schiebeschlitten SBS M8
+Schiebeschlitten zur Aufnahme von axialen Längenänderungen.
+Der fischer Schiebeschlitten SBS nimmt Rohrausdehnungen auf. Der Schiebeweg beträgt 60 mm. Die zweifache Rohrabstützung verhindert wirksam das Ausgleiten aus der Führung. Platzsparende Montage durch eine geringe Bauhöhe. Anschlussgewinde M8.
+Schiebeschlitten zur Aufnahme von axialen Längenänderungen.
+AnwendungenSchiebeschlitten zur Aufnahme von Rohrausdehnungen in zwei BauformenSchiebeweg bei SBS 55 mm (M10) und 60 mm (M8), bei SBS 12/16 125 mm
+EigenschaftenWerkstoff: Stahl DD11 (Werkstoff -Nr. 1.0332) nach DIN EN 10111 / PA GF 20Verzinkung: galvanisch verzinkt, mind. 5 µmHaftreibungsfaktor: 0,25 - 0,30Gleitreibungsfaktor: 0,16 - 0,18Temperaturbereich: -40 °C bis +100 °C
+Top FeaturesBrandschutzprüfung F120.Muster-Leitungsanlagen-Richtlinien Prüfung MLAR F30.
+VorteileDie zweifache Rohrabstützung verhindert wirksam das Ausgleiten aus der Führung.Die geringe Bauhöhe des Schiebeschlittens lässt eine platzsparende Montage zu.
+Funktionsweise / Montage
+Brandschutzprüfung F120.
+Muster-Leitungsanlagen-Richtlinien Prüfung MLAR F30.
+Anschlussgewinde: M8
+Max. empfohlene Belastungswerte hängend: 1,50 [kN]
+Max. empfohlene Belastungswerte stehend: 1,50 [kN]
+Max. empf. Rohr-Ø: bis DN 80
+Menge: 8 [Stück]
+GTIN (EAN-Code): 4006209796856
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Gleitelemente
+Das Produkt ist von der Kategorie Schiebeschlitten SBS

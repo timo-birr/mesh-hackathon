@@ -1,0 +1,27 @@
+Diese Datei beschreibt das Produkt MW Clix 90° mit der ID 538666
+MW Clix 90°
+MW Clix 90°
+fischer Montagewinkel MW Clix 90° vormontiert
+Der vormontierte Montagewinkel MW Clix 90°
+Element zur stabilen Konstruktion von Winkelverbindungen zwischen FLS Montageschienen.
+Der vormontierte Montagewinkel MW Clix 90°
+AnwendungenElement zur stabilen Konstruktion von Winkelverbindungen zwischen FLS-Montageschienen.
+EigenschaftenWerkstoff Winkel: Stahl S235JR+CR (Werkstoff-Nr. 1.0037) nach DIN 1652Werkstoff Schiebemutter: Stahl S420MC (Werkstoff-Nr. 1.0980) nach DIN EN 10149-2Werkstoff Deckscheibe: Stahl S235JR+CR (Werkstoff-Nr. 1.0037) nach DIN 1652Werkstoff Sechskantschraube: Stahl min. 4.6 (nach DIN EN ISO 898-1)Werkstoff Kunststoffkäfig: Polypropylen PP, Artikelnummer 11400, Farbe schwarzVerzinkung: galvanisch verzinkt, mind. 5 µm, Sechskantschraube mind. 3 µm nach DIN EN ISO 4042
+Top FeaturesEinfache Erstellung von Schienenkonstruktionen in Verbindung mit FLS Schienen und FSM Clix PAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDas vormontierte Anbauteil des MW Clix ermöglicht die Reduzierung der Artikel für eine Befestigung und spart wertvolle Arbeitszeit.Der vormontierte Befestiger im MW Clix sichert die Montageposition durch ein einzigartiges Widerlager und erlaubt eine sichere und schnelle Montage.Der speziell entwickelte Federschenkel am vormontierten Befestiger garantiert den notwendigen Anpressdruck des Befestigers in der FLS-Montageschiene für einen sicheren Halt während der Montage.Der formschlüssige und passgenaue Winkel des MW Clix vereinfacht die Montage auf der FLS-Montageschiene und spart wertvolle Montagezeit.
+Funktionsweise / Montage
+Einfache Erstellung von Schienenkonstruktionen in Verbindung mit FLS Schienen und FSM Clix P
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Gewinde: M8
+Schlüsselweite: 13 [mm]
+Max. empfohlene zentr. Zuglast für FLS 17/1.0 und FLS 30/1.0: 1,5 [kN]
+Max. empfohlene zentr. Zuglast für FLS 37/1.2: 2,0 [kN]
+Anzugsdrehmoment: 10 [N·m]
+Menge: 10 [Stück]
+GTIN (EAN-Code): 4048962265279
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem leicht FLS
+Das Produkt ist von der Kategorie Konstruktionselemente
+Das Produkt ist von der Kategorie Montagewinkel MW Clix 90°

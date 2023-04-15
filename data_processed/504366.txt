@@ -1,0 +1,30 @@
+Diese Datei beschreibt das Produkt TKR 82 mit der ID 504366
+TKR 82
+TKR 82
+fischer Trägerkralle TKR 82
+Spannbügel zur Befestigung von Profilen an Stahlträgern.
+Mithilfe der Trägerkralle TKR 82 erfolgt die Befestigung von Profilen an Stahlträgern. Die Konstruktion der Trägerkralle macht das Befestigen ohne Bohren oder schweißen möglich. Die Unterschiedlichen Längen der Krallenseiten ermöglichen das Befestigen an allen gängigen T-Trägern.
+Spannbügel zur Befestigung von Profilen an Stahlträgern.
+AnwendungenBefestigung am Stahlträger mit jeweils zwei Trägerkrallen
+EigenschaftenWerkstoff Trägerplatte/Rundstahlbügel: Stahl S235 JR (Werkstoff-Nr. 10037) nach DIN EN 10025Werkstoff Mutter: Stahlfestigkeitsklasse 8Verzinkung: Galvanisch verzinkt
+Top FeaturesSpannbügel zur direkten Verbindung von FUS Schienen mit StahlträgernKein Bohren, kein Schweißen erforderlichAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDie Konstruktion der Trägerkralle macht das Befestigen ohne Bohren oder Schweißen möglich.Die Bauform der Trägerkralle gewährt das einfache Verschieben der Schienenanbindung.
+Funktionsweise / Montage
+Spannbügel zur direkten Verbindung von FUS Schienen mit Stahlträgern
+Kein Bohren, kein Schweißen erforderlich
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Für Profil: 62, 41D
+Gewinde: M10
+Breite B: 79 [mm]
+Höhe: 137 [mm]
+Länge: 80 [mm]
+Max. empf. statische Last (zentr. Zug): 10,00 [kN]
+Anzugsdrehmoment: 20 [N·m]
+Menge: 20 [Stück]
+GTIN (EAN-Code): 4048962062632
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Konstruktionselemente
+Das Produkt ist von der Kategorie Trägerkralle TKR

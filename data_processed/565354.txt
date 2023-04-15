@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt ATK 106 SZ 20 S-Profil, 6M mit der ID 565354
+ATK 106 SZ 20 S-Profil, 6M
+ATK 106 SZ 20 S-Profil, 6M
+fischer ATK 106 SZ 20 S-Profil, 6M
+Horizontales S-Profil für ATK 106 SZ 20.
+Das ATK 106 SZ 20 S-Profil ist Bestandteil des BWM Unterkonstruktionssystems ATK 106 SZ 20 und wird in Verbindung mit dem horizontalen Z-Profil des Systems in der Fassandenfläche verwendet. Zusätzlich wird es in Verbindung mit dem Basisprofil für den unteren horizontalen Sockel und Fensterstürze verwendet. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Horizontales S-Profil für ATK 106 SZ 20.
+AnwendungenAls Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesEinhängeprofil zur Abtragung von Wind- und Eigenlasten.
+VorteileErmöglichen eine optimierte horizontale Lastabtragung durch die Weiterleitung an die Vertikalprofile.Durch die aufeinander abgestimmten Geometrien von Agraffen und Horizontalprofilen ist ein schnelles und einfaches Einhängen der Fassadenplatten möglich.Die Horizontalprofile sind universell auf nahezu allen Tragkonstruktionen einsetzbar.Die optimierte Geometrie gewährleistet eine Materialersparnis.Die Kombinationsmöglichkeit von verschiedenen Ausführungen ermöglicht eine erhöhte Flexibilität.
+Funktionsweise / MontageHorizontale Lastabtragung der einwirkenden Lasten und Weiterleitung an die vertikale EbeneAusgleich von bauseitigen Toleranzen zusammen mit den WandhalternGeometrische Abstimmung
+Einhängeprofil zur Abtragung von Wind- und Eigenlasten.
+Länge: 6000 [mm]
+Höhe: 34,5 [mm]
+Stärke: 1,8 - 2,0 [mm]
+Tiefe: 40,5 [mm]
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Horizontalprofil
+System: ['ATK 106 SZ 20']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962384697
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Horizontale Tragprofile

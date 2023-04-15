@@ -1,0 +1,29 @@
+Diese Datei beschreibt das Produkt FCA 41 - 450 fvz mit der ID 517412
+FCA 41 - 450 fvz
+FCA 41 - 450 fvz
+fischer Auslegerkonsole FCA 41 - 450 feuerverzinkt
+FUS-Profile mit angeschweißter Grundplatte zur direkten Montage an den Untergrund.
+Die fischer Auslegerkonsole FCA ermöglicht die schnelle und einfache Montage von z.B. Rohrtrassen entlang der Wand. Einfache Ausrichtung der Konsole durch Langlöcher in der Grundplatte, die um 90° zu einander gedreht sind.
+FUS-Profile mit angeschweißter Grundplatte zur direkten Montage an den Untergrund.
+AnwendungenSchnelle und einfache Montage von z.B. Rohrtrassen entlang der Wand
+EigenschaftenWerkstoff: Stahl S235 JR (Werkstoff-Nr. 1.0337) nach DIN EN 10025Verzinkung: Feuerverzinkt
+Top FeaturesBrandprüfbericht nach MLAR/EN 13501.Abgestuftes Längensortiment.Unterschiedliche Lochgeometrie.Hohe Montageflexibilität.
+VorteileDer Brandprüfbericht nach MLAR/EN13501 garantiert objektiv geprüfte Funktionssicherheit.Das abgestufte Längensortiment lässt eine optimale Anpassung an die Anwendung zu.Die stabile Grundplatte der Konsole bietet einer belastbaren Konstruktion sicheren Halt.Die um 90° zueinander gedrehten Langlöcher der Grundplatte erlauben eine einfache Ausrichtung der Konsole.Die ausgeprägte Verzahnung in der Schiene bietet der Schiebemutter zur Aufnahme hoher Querlasten sicheren Halt z. B. bei der vertikalen Montage.
+Funktionsweise / Montage
+Brandprüfbericht nach MLAR/EN 13501.
+Abgestuftes Längensortiment.
+Unterschiedliche Lochgeometrie.
+Hohe Montageflexibilität.
+Brandprüfung: Ja
+Profil: 41 / 2,5
+Länge: 450 [mm]
+Max. empfohlene Last bei Lastfall 1: 1,20 [kN]
+Max. empfohlene Last bei Lastfall 2: 0,60 [kN]
+Max. empfohlene Last bei Lastfall 3: 1,20 [kN]
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962145281
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Konsolen
+Das Produkt ist von der Kategorie Auslegerkonsole FCA

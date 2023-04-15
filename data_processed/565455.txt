@@ -1,0 +1,32 @@
+Diese Datei beschreibt das Produkt FUH 240x70x3-50/11/F-SP AL mit der ID 565455
+FUH 240x70x3-50/11/F-SP AL
+FUH 240x70x3-50/11/F-SP AL
+fischer Wandhalter FUH 240x70x3-50/11/F-SP AL
+Fest-Gleitpunkthalter für ATK 101 mit Lochung 11mm.
+Der U-förmige Wandhalter des BWM-Tragsystems ATK 101 aus Aluminium bildet die Grundlage für die vertikale Ebene einer Fassadenunterkonstruktion. Er wird mittels fischer Verankerungsmitteln im Bauuntergrund befestigt. Zur Reduktion von Wärmebrücken können die Wandhalter zusätzlich mit Thermostops aus Hart-PVC versehen werden. Um alle gängigen Dämmschichtdicken und Fassadenauskragungen zu ermöglichen, werden die Wandhalter in verschiedenen Ausladungen ausgeführt. Damit die thermischen Ausdehnungen der Profile ausgeglichen werden können, kommen die Wandhalter sowohl als Fest- als auch als Gleitpunkte zum Einsatz. Der Festpunkt nimmt das gesamte Eigengewicht der Fassadenplatten und Unterkonstruktion zusätzlich zu den anteiligen Windlasten auf. Der Gleitpunkt sorgt mit seinen Langlöchern zusätzlich dafür, dass das vertikale Profil, aufgrund thermischer Ausdehnungen, gleiten kann. Ebenfalls dient der Gleitpunkt dazu, Windlasten abzutragen. Diese Fest-Gleitpunkte ermöglichen den Einsatz für beide Anwendungen.
+Fest-Gleitpunkthalter für ATK 101 mit Lochung 11mm.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesAufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.Ausgleich von Bautoleranzen möglich.Kompatibel mit Druckscheibe für hohe Lasten.Optimiert für Befestigungsmittel 11mm, z.B. für Verankerungen in Beton.Auskragungen von 60-320mm.
+VorteileDie U-förmige Geometrie des Wandhalters ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Kompatibel mit allen gängigen Befestigungs- und Verbindungsmitteln (z.B. fischer Langschaftdübel und Stahlanker).Das vordefinierte Lochbild ermöglicht eine schnelle und einfache Montage.Die großen Ausladungen bilden die Basis für große Wandaufbauten und sorgen für einen flexiblen Einsatz. 
+Funktionsweise / MontageVertikale Lastabtragung und Lasteinleitung in den BauuntergrundAufnahme höherer Lasten durch zweiseitige BefestigungAusgleich von bauseitigen ToleranzenEinfache Montage mittels beidseitiger Befestigung
+Aufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.
+Ausgleich von Bautoleranzen möglich.
+Kompatibel mit Druckscheibe für hohe Lasten.
+Optimiert für Befestigungsmittel 11mm, z.B. für Verankerungen in Beton.
+Auskragungen von 60-320mm.
+Länge: 240 [mm]
+Breite: 56 [mm]
+Breite B: 50 [mm]
+Höhe: 70 [mm]
+Stärke: 3,0 [mm]
+Abmessungen: 1 x 11x20 [mm]
+Typ: Fest-/Gleitpunkt
+System: ['ATK 101']
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 5754 H24/H34
+Inhalt: 50 x Wandhalter
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962385700
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Wandhalter
+Das Produkt ist von der Kategorie Wandhalter FUH AL

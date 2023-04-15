@@ -1,0 +1,26 @@
+Diese Datei beschreibt das Produkt ATK 103 V Hutprofil 65/30/15, 6M mit der ID 565203
+ATK 103 V Hutprofil 65/30/15, 6M
+ATK 103 V Hutprofil 65/30/15, 6M
+fischer ATK 103 V Hutprofil 65/30/15, 6M
+Vertikales Hutprofil für ATK 103V.
+Das vertikale Hutprofil wird in der Regel in Kombination mit dem BWM ATK 103 System verwendet. Die Profile dienen der wirtschaftlichen Befestigung kleinteiliger Fassadenplatten. Hierbei werden mehrere Fassadenplatten auf dem Profil befestigt (z.B. geklebt), um diese direkt in das horizontale Tragsystem der ATK 103 einzuhängen. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikales Hutprofil für ATK 103V.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastübertragung.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastübertragung.
+Länge: 6000 [mm]
+Breite: 65 [mm]
+Stärke: 2,0 - 3,0 [mm]
+Tiefe: 15 [mm]
+Breite B: 30 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Vertikalprofil
+System: ['ATK 103']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962383188
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

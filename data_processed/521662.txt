@@ -1,0 +1,29 @@
+Diese Datei beschreibt das Produkt BR-VS 50-F mit der ID 521662
+BR-VS 50-F
+BR-VS 50-F
+fischer Agraffe Bracket Solution Vertical Solution BR-VS 50-F
+Einhängelasche als Festpunkt für SystemOne Vertical Solution.
+Die Einhängelasche ist ein Teil der Vertical Solution, die ein Vertikales Unterkonstruktionssystem darstellt. Bei diesem System kommt die Fassadenunterkonstruktion ohne Horizontalprofile aus, da die Lasten direkt über die Einhängelaschen, die an den Vertikalprofilen montiert werden, abgeleitetet werden können. Die speziellen Zykon Plattenanker FZP II VS können durch eine Einhängemutter nach dem Schlüsselschlossprinzip in die Einhängelaschen eingehängt werden. Diese Lasche hat eine breite von 50mm und wird als Festpunkt verwendet.
+Einhängelasche als Festpunkt für SystemOne Vertical Solution.
+AnwendungenAls Einhängeelement in das Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassade.Als Einhängelasche für Einhängemuttern für rein vertikale Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVerwendbar als Festpunkt.Sichere Plattenmontage durch Schlüssellochprinzip.Direktmontage auf vertikale Tragprofile möglich.Kompatibel mit fischer Hinterschnittankern FZP II VS.
+VorteileVormontage der Agraffen möglich, somit Zeitersparnis auf der Baustelle.Schnelles und einfaches Einhängen der Fassadenplatten über die aufeinander abgestimmten Geometrien von Agraffe und Horizontalprofil.
+Funktionsweise / MontageLastabtragung der einwirkenden Lasten (Eigengewicht und Wind)Aufnahme der Lasten durch die Verbindung zu den Fassadenplatten durch die HinterschnittankerEinfache Montage mittels herkömmlicher Befestigungsmittel und Hinterschnittankern
+Verwendbar als Festpunkt.
+Sichere Plattenmontage durch Schlüssellochprinzip.
+Direktmontage auf vertikale Tragprofile möglich.
+Kompatibel mit fischer Hinterschnittankern FZP II VS.
+Breite: 50 [mm]
+Höhe: 132 [mm]
+Tiefe: 15 [mm]
+Loch-Ø: 10,5 [mm]
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Festpunkt
+System: ['ATK System One']
+Menge: 20 [Stück]
+GTIN (EAN-Code): 4048962174816
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Clasps
+Das Produkt ist von der Kategorie Agraffen

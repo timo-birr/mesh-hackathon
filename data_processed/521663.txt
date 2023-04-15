@@ -1,0 +1,29 @@
+Diese Datei beschreibt das Produkt BR-VS 50-S mit der ID 521663
+BR-VS 50-S
+BR-VS 50-S
+fischer Agraffe Bracket Solution Vertical Solution BR-VS 50-S
+Einhängelasche als Gleitpunkt für SystemOne Vertical Solution.
+Die Einhängelasche ist ein Teil der Vertical Solution, die ein Vertikales Unterkonstruktionssystem darstellt. Bei diesem System kommt die Fassadenunterkonstruktion ohneHorizontalprofile aus, da die Lasten direkt über die Einhängelaschen, die an den Vertikalprofilen montiert werden, abgeleitetet werden können. Die speziellen Zykon Plattenanker FZP II VS können durch eine Einhängemutter nach dem Schlüsselschlossprinzip in die Einhängelaschen eingehängt werden. Diese Lasche hat eine breite von 50mm und wird als Gleitpunkt verwendet.
+Einhängelasche als Gleitpunkt für SystemOne Vertical Solution.
+AnwendungenAls Einhängeelement in das Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassade.Als Einhängelasche für Einhängemuttern für rein vertikale Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVerwendbar als Gleitpunkt.Sichere Plattenmontage durch Schlüssellochprinzip.Direktmontage auf vertikale Tragprofile möglich.Kompatibel mit fischer Hinterschnittankern FZP II VS.
+VorteileVormontage der Agraffen möglich, somit Zeitersparnis auf der Baustelle.Schnelles und einfaches Einhängen der Fassadenplatten über die aufeinander abgestimmten Geometrien von Agraffe und Horizontalprofil.
+Funktionsweise / MontageLastabtragung der einwirkenden Lasten (Eigengewicht und Wind)Aufnahme der Lasten durch die Verbindung zu den Fassadenplatten durch die HinterschnittankerEinfache Montage mittels herkömmlicher Befestigungsmittel und Hinterschnittankern
+Verwendbar als Gleitpunkt.
+Sichere Plattenmontage durch Schlüssellochprinzip.
+Direktmontage auf vertikale Tragprofile möglich.
+Kompatibel mit fischer Hinterschnittankern FZP II VS.
+Breite: 50 [mm]
+Höhe: 132 [mm]
+Tiefe: 15 [mm]
+Loch-Ø: 10,5 [mm]
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Gleitpunkt
+System: ['ATK System One']
+Menge: 20 [Stück]
+GTIN (EAN-Code): 4048962174823
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Clasps
+Das Produkt ist von der Kategorie Agraffen

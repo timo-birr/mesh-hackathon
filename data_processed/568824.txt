@@ -1,0 +1,26 @@
+Diese Datei beschreibt das Produkt FMA-FUS mit der ID 568824
+FMA-FUS
+FMA-FUS
+fischer Systemverbinder FMA-FUS
+Die Systemverbindung von FMP Montageprofilen und FUS Montageschienen
+Der fischer Systemverbinder FMA-FUS ist das optimale Verbindungselement von Profil zu Schiene. Die Verbindung zum Montageprofil FMP erfolgt durchweg mit dem fischer Hammerkopf-Steckverbinder FMHB und zu der FUS Montageschiene mit Schienenmutter und Schraube. Die Ausführung in Feuerverzinkung mit hoher Schichtdicke eignet sich für die Installationen im Freien und in korrosiver Umgebung.
+Die Systemverbindung von FMP Montageprofilen und FUS Montageschienen
+AnwendungenMontageelement zur Gestaltung von mehrdimensionalen SchienenkonstruktionenMontageelement zur variablen Gestaltung von Tragekonstruktionen aus Profilen
+EigenschaftenGrundplatte: Stahl S355 (Werkstoff Nr. 1.0976) nach DIN EN 10149-2Profilaufnahme: Stahl S235JR (Werkstoff Nr. 1.0038) nach DIN EN 10025-2Verzinkung: feuerverzinkt, min. 55 µm, nach DIN EN ISO 1461
+Top FeaturesDer Systemverbinder FMA-FUS gewährt in der Funktion als Sattelflasch die Aufnahme der FUS-Montagschienen in verschiedenen Bauhöhen durch Schraubverbindungen mit der FCN Clix P Schienenmutter.Die Ausführung des Systemverbinders FMA-FUS mit Langlöchern und Rasterung passend zum Hammerkopf-Steckverbinder FMHB ermöglicht eine optimale Justage der Konstruktion und vereinfacht den Montageprozess.Die stabile Ausführung des Systemverbinders FMA-FUS ermöglicht die optimale Übertragung der aufliegenenden Lasten in der Anwendung als Winkel.
+VorteileDer Systemverbinder FMA-FUS gewährt in der Funktion als Sattelflansch die Aufnahme der FUS-Montagschienen in verschiedenen Bauhöhen durch Schraubverbindungen mit der FCN Clix P Schienenmutter.Die Ausführung des Systemverbinders FMA-FUS mit Langlöchern und Rasterung passend zum Hammerkopf-Steckverbinder FMHB ermöglicht eine optimale Justage der Konstruktion und vereinfacht den Montageprozess.Die stabile Ausführung des Systemverbinders FMA-FUS ermöglicht die optimale Übertragung der aufliegenden Lasten in der Anwendung als Winkel.
+Funktionsweise / Montage
+Der Systemverbinder FMA-FUS gewährt in der Funktion als Sattelflasch die Aufnahme der FUS-Montagschienen in verschiedenen Bauhöhen durch Schraubverbindungen mit der FCN Clix P Schienenmutter.
+Die Ausführung des Systemverbinders FMA-FUS mit Langlöchern und Rasterung passend zum Hammerkopf-Steckverbinder FMHB ermöglicht eine optimale Justage der Konstruktion und vereinfacht den Montageprozess.
+Die stabile Ausführung des Systemverbinders FMA-FUS ermöglicht die optimale Übertragung der aufliegenenden Lasten in der Anwendung als Winkel.
+Länge: 250 [mm]
+Breite: 90 [mm]
+Höhe: 95 [mm]
+Stärke: 8,0 [mm]
+Menge: 6 [Stück]
+GTIN (EAN-Code): 4048962490961
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem massiv FMS
+Das Produkt ist von der Kategorie Konstruktionselemente
+Das Produkt ist von der Kategorie Systemverbinder FMA-FUS

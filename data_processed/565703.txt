@@ -1,0 +1,26 @@
+Diese Datei beschreibt das Produkt Hutprofil 120/30 6M mit der ID 565703
+Hutprofil 120/30 6M
+Hutprofil 120/30 6M
+fischer Hutprofil 120/30 6M
+Vertikales Hutprofil.
+Das vertikale Hutprofile wird zu Lastübertragung in verschiedenen Anwendungen verwendet.
+Vertikales Hutprofil.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastabtragung.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastabtragung.
+Länge: 6000 [mm]
+Breite: 120 [mm]
+Stärke: 2,0 [mm]
+Tiefe: 30 [mm]
+Breite B: 44,5 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Vertikalprofil
+System: ['ATK 100']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962388183
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

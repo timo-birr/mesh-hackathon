@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt SB M 8 mit der ID 079680
+SB M 8
+SB M 8
+fischer Schiebebügel SB M8
+Gleitelement zur Aufnahme von axialen Längenänderungen.
+Der fischer Schiebebügel SB ist ein Gleitelement mit einem langen Schiebeweg zur Aufnahme von axialen Längenänderungen von Rohrleitungen. Die Bauform des Schiebebügels lässt eine sichere und leicht laufende Rohraufhängung zu. Gewinde M 8.
+Gleitelement zur Aufnahme von axialen Längenänderungen.
+AnwendungenGleitelement mit langem Schiebeweg zur Aufnahme von axialen Längenänderungen von RohrleitungenMontage des Gleitelements entsprechend den zu erwartenden Längenausdehnungen (kein Verlust an Schiebewegen oder Behinderung des Gleitens)
+EigenschaftenWerkstoff: Stahl DD11 (Werkstoff-Nr. 1.0332) nach DIN EN 10111Verzinkung: galvanisch verzinkt, mind. 3 µm
+Top FeaturesErlaubt eine gleitende Aufhängung von Rohrleitungen mittels RohrschellenKompensiert effektiv Längenausdehnung von RohrleitungenAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDie Bauform des Schiebebügels lässt eine sichere und leichtlaufende Rohraufhängung zu.Der Schiebebügel ist optimal geeignet zur Aufnahme der axialen Längenausdehnungen von Rohrleitungen.
+Funktionsweise / Montage
+Erlaubt eine gleitende Aufhängung von Rohrleitungen mittels Rohrschellen
+Kompensiert effektiv Längenausdehnung von Rohrleitungen
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Anschlussgewinde: M8
+Höhe: 75 [mm]
+Max. empf. Last (zentr. Zug): 0,4 [kN]
+Menge: 25 [Stück]
+GTIN (EAN-Code): 4006209796801
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Gleitelemente
+Das Produkt ist von der Kategorie Schiebebügel SB

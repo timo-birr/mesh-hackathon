@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt PSF 41 mit der ID 533740
+PSF 41
+PSF 41
+fischer Sattelflansch PSF 41
+Konstruktionselement - Sattelflansch PSF
+Der fischer Sattelflansch PSF ermöglicht die stabile Konstruktion zwischen Schiene und Bauwerk. Längsmontage. Der passgenaue Sattel der SF lässt eine einfache Montage durch Einlegen der Montageschiene zu.
+Konstruktionselement - Sattelflansch PSF
+AnwendungenElement zur stabilen Konstruktion von Verbindungen zwischen Schiene und Bauwerk für das Durchstecksystem
+EigenschaftenWerkstoff: Stahl DD11 (Werkstoff-Nr. 1.0332) nach DIN EN 10111Verzinkung: Galvanisch verzinkt
+Top FeaturesBrandschutzprüfung R120.
+VorteileDer passgenaue Sattel lässt eine einfache Montage durch Einlegen der Montageschiene zu.Die stabile Ausführung des Sattelflansch bietet einer belastbaren Konstruktion sicheren Halt.
+Funktionsweise / Montage
+Brandschutzprüfung R120.
+Für Profil: 21D, 41, 62
+Max. empfohlene zentr. Zuglast für FUS 2,0 mm: 5,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,5 mm: 7,0 [kN]
+Max. empfohlener Querzug: 7,0 [kN]
+Menge: 10 [Stück]
+GTIN (EAN-Code): 4048962225051
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Konstruktionselemente
+Das Produkt ist von der Kategorie Sattelflansch PSF

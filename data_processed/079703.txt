@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt DPP 85 mit der ID 079703
+DPP 85
+DPP 85
+fischer Doppelhalterplatte DPP 85
+Die Doppelhalterplatte zur Befestigung von zwei Rohrleitungen.
+Der fischer Doppelhalterplatte DPP ist ein Befestigungselement aus galvanisch verzinktem Stahl. Mit dem Befestigungselement können mit nur einem Festpunkt zwei parallele Rohrleitungen befestigt werden.
+Die Doppelhalterplatte zur Befestigung von zwei Rohrleitungen.
+AnwendungenBefestigungselement zur Montage mit nur einem Befestigungspunkt von zwei parallelen Rohrleitungen
+EigenschaftenWerkstoff DPP: DC04 (Werkstoff-Nr. 1.0338) nach DIN EN 10130Werkstoff DPF: DC01 (Werkstoff-Nr. 1.0330) nach DIN EN 10130Verzinkung: galvanisch verzinkt, mind. 5 µm
+Top FeaturesNur ein Befestigungspunkt für zwei Rohrleitungen. Das spart Zeit und Kosten.Einfaches Ausrichten durch Langloch.Optisch ansprechende Bauform ideal für Sichtmontage.Aufnahme für M 8-Gewinde.
+VorteileDie Konstruktion der Doppelhalterplatte spart einen Befestigungspunkt für die Befestigung von zwei Rohrleitungen.Die zweiteilige Doppelhalterplatte DPF ermöglicht variable Rohrabstände.Die Langlöcher der Grundplatte erlauben eine einfache Ausrichtung der Doppelhalteplatte.Die abgerundete Bauform der Halteplatte eignet sich optimal für Sichtmontage.
+Funktionsweise / Montage
+Nur ein Befestigungspunkt für zwei Rohrleitungen. Das spart Zeit und Kosten.
+Einfaches Ausrichten durch Langloch.
+Optisch ansprechende Bauform ideal für Sichtmontage.
+Aufnahme für M 8-Gewinde.
+Länge L1: 85 [mm]
+Gewinde: M8
+Max. empf. statische Last (zentr. Zug): 1,00 [kN]
+Menge: 50 [Stück]
+GTIN (EAN-Code): 4006209797037
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Montagezubehör
+Das Produkt ist von der Kategorie Gewindeanbindung
+Das Produkt ist von der Kategorie Doppelhalterplatte DPP, DPF

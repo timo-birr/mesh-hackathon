@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt CNC-Adapter mit der ID 804063
+CNC-Adapter
+CNC-Adapter
+fischer CNC Adapter
+Die wirtschaftliche Lösung zur automatisierten Hinterschnitterstellung.
+Der FZPB CNC Adapter besitzt maschinenseitig ein R ½" Rechtsgewinde mit 60° Kegel und bohrerseitig ein M14 Rechtsgewinde mit Zentrierbund passend für die fischer FZPB CNC Diamantformfräser. Der Adapter wird in handelsüblichen CNC Bearbeitungszentren mit 3-Achsen Steuerung eingesetzt. Die Bohrlocherstellung erfolgt mittels einstufigen oder zweistufigen (mit Vorbohren) direktem Bohrverfahren oder dem Helixbohrverfahren.
+Die wirtschaftliche Lösung zur automatisierten Hinterschnitterstellung.
+AnwendungenInnenfassadenAußenfassadenFassadenleibungen
+BaustoffeNaturstein (≥ 20 mm)BetonwerksteinKeramik (≥ 10 mm)MineralwerkstoffeFaserzementHPL-PlattenSolid surfacesdünne Plattenmaterialien (≥ 8 mm)
+Top FeaturesAdapterstück für FZPB Bohrer zur einfachen Werkzeugaufnahme in CNC-Bohrspindel 1/2".Schneller Werkzeugwechsel.Kompatibel mit allen fischer FZPB CNC Hinterschnittbohrern mit M14 Innengewinde.Zum Bohren mit CNC Maschinen.
+VorteileGeringe InvestitionskostenSchneller Einstieg in die fischer Hinterschnitttechnik
+Funktionsweise / Montage
+Adapterstück für FZPB Bohrer zur einfachen Werkzeugaufnahme in CNC-Bohrspindel 1/2".
+Schneller Werkzeugwechsel.
+Kompatibel mit allen fischer FZPB CNC Hinterschnittbohrern mit M14 Innengewinde.
+Zum Bohren mit CNC Maschinen.
+Bohrverfahren: nass
+Geeignet für: Naturstein, Keramik
+Gewinde: M14
+Schlüsselweite: 27 [mm]
+GTIN (EAN-Code): 4048962345841
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Maschinentechnik und Bohrer
+Das Produkt ist von der Kategorie Hinterschnittbohrer
+Das Produkt ist von der Kategorie Hinterschnittbohrer CNC

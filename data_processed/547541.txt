@@ -1,0 +1,30 @@
+Diese Datei beschreibt das Produkt FHC 30x2 60/9/SP AL mit der ID 547541
+FHC 30x2 60/9/SP AL
+FHC 30x2 60/9/SP AL
+fischer Einhängeagraffe FHC 30x2 60/9/SP AL
+Gleitpunkt-Agraffe für ATK 103 P oder S für FZP II M8.
+Die Gleitpunktagraffe des horizontalen BWM Tragsystems ATK 103 ist aus einem offenen C-Profil gefertigt und stellt das geometrische Gegenstück zu den Horizontalprofilen ATK 103 dar. Durch diese Kombination lassen sich die mit Hinterschnittankern befestigten Fassadenplatten schnell und effizient einhängen. Die Gleitpunktagraffen nehmen die auftretenden Windlasten anteilig auf und leiten diese auf die Horizontaltragprofile weiter.
+Gleitpunkt-Agraffe für ATK 103 P oder S für FZP II M8.
+AnwendungenAls Einhängeelement in das Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassade.Als Einhängelasche für Einhängemuttern für rein vertikale Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesSchnelles und einfaches Einhängen der Agraffen.Kompatibel mit Horizontalprofilen ATK 103 P oder S.Geringer Ein- und Aushängeweg.
+VorteileVormontage der Agraffen möglich, somit Zeitersparnis auf der Baustelle.Schnelles und einfaches Einhängen der Fassadenplatten über die aufeinander abgestimmten Geometrien von Agraffe und Horizontalprofil.
+Funktionsweise / MontageLastabtragung der einwirkenden Lasten (Eigengewicht und Wind)Aufnahme der Lasten durch die Verbindung zu den Fassadenplatten durch die HinterschnittankerEinfache Montage mittels herkömmlicher Befestigungsmittel und Hinterschnittankern
+Schnelles und einfaches Einhängen der Agraffen.
+Kompatibel mit Horizontalprofilen ATK 103 P oder S.
+Geringer Ein- und Aushängeweg.
+Breite: 60 [mm]
+Höhe: 62 [mm]
+Stärke: 2,0 [mm]
+Tiefe: 30 [mm]
+Loch-Ø: 9,0 [mm]
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Gleitpunkt
+System: ['ATK 103']
+Menge: 1 [Stück]
+Inhalt: 100 x Agraffe
+GTIN (EAN-Code): 4048962337099
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Clasps
+Das Produkt ist von der Kategorie Agraffen

@@ -1,0 +1,27 @@
+Diese Datei beschreibt das Produkt VP 120/3 mit der ID 048898
+VP 120/3
+VP 120/3
+fischer Vertikalprofil VP 120/3
+Vertikalprofil Vierkantrohr mit einer Tiefe von 120 mm.
+Das vertikale Boxprofil ist Bestandteil des Unterkonstruktionssystems ATK 101 und die Basis für eine Vielzahl von Lösungen. Es dient zur vertikalen Lastabtragung der Fassadensysteme und wird mit Systemnieten an den Wandhaltern befestigt. Um die thermische Ausdehnung des Profils zu ermöglichen, wird bei der Befestigung zwischen Langlöchern (Gleitpunkten) und Festpunkten unterschieden. Zusammen mit den Wandhaltern und deren Auskragung bestimmt die Geometrie des Vertikalprofils die Ausladung der Fassade. Durch dieses System können auch Toleranzen des Bauuntergrunds ausgeglichen werden. Die Profile werden hauptsächlich als Basiskonstruktion für z.B. für Horizontalsysteme für verdeckten Befestigungen eingesetzt. Verschiedene Geometrien ermöglichen die Anwendungen für alle Bekleidungsmaterialien. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikalprofil Vierkantrohr mit einer Tiefe von 120 mm.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastabtragung.Geschlossenes Profil für höchste Lasten.Kompatibel mit Wandhaltern mit Klemmdicke 50mm.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastabtragung.
+Geschlossenes Profil für höchste Lasten.
+Kompatibel mit Wandhaltern mit Klemmdicke 50mm.
+Länge: 6000 [mm]
+Breite: 50 [mm]
+Stärke: 3,0 [mm]
+Tiefe: 120 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Vertikalprofil
+System: ['ATK 101']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4006209488980
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

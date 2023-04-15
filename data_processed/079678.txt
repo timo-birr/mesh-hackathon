@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt PV M 8 mit der ID 079678
+PV M 8
+PV M 8
+fischer Parallelverbinder PV M8
+Einfache Verbindung von zwei Gewindestangen.
+Der fischer Parallelverbinder PV ist ein Verbindungslelement aus Zinkdruckguss. Das Verbindungselement verbindet und verlängert Konstruktionen mit Gewindestäben. Dazu werden die Gewindeteile aneinander gehalten und der Parallelverbinder wird nur übergeschoben. Die Konstruktion wird durch eine Kontermutter gesichert.
+Einfache Verbindung von zwei Gewindestangen.
+AnwendungenEinfacher und schnell montierbarer Verbinder zur Verlängerung bzw. zum Verbinden von GewindestäbenGewindeteile aneinanderhalten, Parallelverbinder überschiebenSicherung durch Kontermutter
+EigenschaftenWerkstoff: Zinkdruckguss
+Top FeaturesSchnelle Montage der Gewindestangen.Einfache und schnelle Höhenregulierung. Dies spart Zeit.Höhenregulierung auch in montiertem Zustand dank Durchgangsbohrung.Mit M 6-Gewinde.
+VorteileDie Bauform des Parallelverbinders ermöglicht eine schnelle Montage der Gewindestangen.Die Länge der Gewindeaufnahme gewährt eine einfache und schnelle Höhenregulierung.Die Durchgangsbohrung des PV ermöglicht jederzeit eine Höhenregulierung im montierten Zustand.
+Funktionsweise / Montage
+Schnelle Montage der Gewindestangen.
+Einfache und schnelle Höhenregulierung. Dies spart Zeit.
+Höhenregulierung auch in montiertem Zustand dank Durchgangsbohrung.
+Mit M 6-Gewinde.
+Für Gewinde: M8
+Max. empf. statische Last (zentr. Zug): 2,00 [kN]
+Menge: 100 [Stück]
+GTIN (EAN-Code): 4006209796788
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Montagezubehör
+Das Produkt ist von der Kategorie Höhenregulierung
+Das Produkt ist von der Kategorie Parallelverbinder PV

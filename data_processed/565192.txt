@@ -1,0 +1,30 @@
+Diese Datei beschreibt das Produkt FZC 15 AL mit der ID 565192
+FZC 15 AL
+FZC 15 AL
+fischer ZeLa Konsole FZC 15 AL
+Konsole für den ZeLa Wandhalter.
+Die ZeLa Konsole ist Bestandteil des ZeLa Wandhalters, der damit die Basis für die vertikale Ebene der Fassadenunterkonstruktion als Teil des BWM Unterkonstruktionssystems ATK 100 bildet. Die Konsole wird mittels fischer Verankerungsmitteln im Bauuntergrund befestigt und ist für verschiedene Verankerungsdurchmesser erhältlich. Das zugehörige ZeLa Schwert wird zusammen mit den Kunststoffkupplungen in die Konsole montiert. Um alle gängigen Dämmschichtdicken und Fassadenauskragungen zu ermöglichen, werden die zugehörigen ZeLa Schwerter in verschiedenen Ausladungen ausgeführt. Damit die thermischen Ausdehnungen der Profile ausgeglichen werden können, kommen die Wandhalter sowohl als Fest- als auch als Gleitpunkte zum Einsatz. Der durch den roten Festpunkt-Clip erzeugte Festpunkt nimmt dabei das gesamte Eigengewicht der Fassadenplatten und Unterkonstruktion zusätzlich zu den anteiligen Windlasten auf. Der Gleitpunkt, erzeugt durch die beiden grünen Kupplungen, sorgt mit seinen Langlöchern zusätzlich dafür, dass das vertikale Profil, aufgrund thermischer Ausdehnungen, gleiten kann. Ebenfalls dient der Gleitpunkt dazu, Windlasten abzutragen. Diese Fest-Gleitpunkte ermöglichen den Einsatz für beide Anwendungen.
+Konsole für den ZeLa Wandhalter.
+EigenschaftenKonsole und Schwert: Aluminium (z. B. EN AW 6063, 6061) oder EdelstahlKupplung: Plastik
+Top FeaturesAufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.Thermische Entkopplung.Untere Kupplung bereits vormontiert.Varianten für Befestigungsmittel 6,5mm, 11mm und 15mm.
+VorteileDie optimierte Geometrie mit Edelstahl- und Aluminiumschwertern ermöglicht eine verbesserte Lastabtragung.Durch die zentrische Lasteinleitung erfolgt eine gleichmäßige Ableitung der Lasten.Die Passivhauszertifizierung garantiert eine nachhaltige und energieeffiziente Befestigung.Die wechselbaren Schwerter für verschiedene Ausladungen sorgen zusammen mit den Vertikalprofilen für den optimalen Toleranzausgleich im Bauuntergrund.Die Steckverbindung der Einzelelemente sorgt für eine schnelle und flexible Montage.
+Funktionsweise / MontageVertikale Lastabtragung und Lasteinleitung in den BauuntergrundZentrische LasteinleitungAufnahme der Lasten durch die Verbindung zu den VertikalprofilenAusgleich von bauseitigen Toleranzen zusammen mit den VertikalprofilenEinfache Montage mittels herkömmlicher Verbindungs- und BefestigungsmittelBessere thermische Trennung durch Polyamid-Kupplungen
+Aufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.
+Thermische Entkopplung.
+Untere Kupplung bereits vormontiert.
+Varianten für Befestigungsmittel 6,5mm, 11mm und 15mm.
+Länge: 42 [mm]
+Breite: 60 [mm]
+Höhe: 50 [mm]
+Stärke: 4,0 [mm]
+Abmessungen: 1 x 15x20 [mm]
+Typ: Konsolen
+System: ['ATK 100']
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Inhalt: 100 x ZeLa Konsole, 100 x ZeLa Kupplung
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962383072
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Wandhalter
+Das Produkt ist von der Kategorie Wandhalter ZeLa

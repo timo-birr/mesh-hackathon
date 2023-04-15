@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt ATK 102 Leibungsprofil mit der ID 565197
+ATK 102 Leibungsprofil
+ATK 102 Leibungsprofil
+fischer ATK 102 Leibungsprofil
+Vertikales Leibungsprofil für ATK 102.
+Das Leibungsprofil ATK 102 ist ein Bestandteil des BWM Klammersystems ATK 102 und wird vertikal für Leibungen verwendet. Darüberhinaus kann es an anspruchsvollen Stellen auch horizontal oder in Passstücken eingesetzt werden. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikales Leibungsprofil für ATK 102.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastübertragung.Optimiert für Leibungen mit ATK 102 Klammern.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastübertragung.
+Optimiert für Leibungen mit ATK 102 Klammern.
+Länge: 6000 [mm]
+Breite: 27 [mm]
+Tiefe: 7 [mm]
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Vertikalprofil
+System: ['ATK 102']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962383126
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

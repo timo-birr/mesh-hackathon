@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt FMFS SH mit der ID 547854
+FMFS SH
+FMFS SH
+fischer Rohrschuh-Halter FMFS SH
+Element zur Fixierung bei thermischer Rohrausdehnung
+Die Festpunkte und Gleitelemente des fischer Massiven Schienensystems FMS sind unterstützende Elemente zur Fixierung und Aufnahme bei thermischer Rohrausdehnung. Der Massive-Rohrbügel FMFS UB befestigt zuverlässig die Rohrschuhe FMPS und den Festpunkt-Sattel FMFS sowie das Gleitelement FMFS zur Erstellung von Festpunkten oder Gleitlagern beim Anbau an das Montageprofil FMP. Die Passgenauigkeit der Elemente des FMS Systems durch angepasste Bauhöhen oder Distanzstücke ermöglicht eine einfache Herstellung der erforderlichen Fest- und Gleitelemente.
+Element zur Fixierung bei thermischer Rohrausdehnung
+AnwendungenFixierung von Rohrleitungen bei thermischen Ausdehnungen
+EigenschaftenWerkstoff: Stahl S235JR (Werkstoff Nr. 1.0038) nach DIN EN 10025-2Verzinkung: feuerverzinkt, min. 55 µm, nach DIN EN ISO 1461Werkstoff: PTFE Polytetrafluoretylen, Farbe weiß
+Top FeaturesDas Gleitelement FMFS gewährt durch den Anbau an die Rohrschuhe FMPS sowohl die axiale Führung als auch das Abheben zur sicheren Führung bei Rohrausdehnung.Das Gleitelement FMFS passt durch die variabel einsetzbaren Distanzplatten an alle Grundplatten der Rorhschuhe FMPS und lässt sich einfach montieren.
+VorteileDas Gleitelement FMFS gewährt durch den Anbau an die Rohrschuhe FMPS sowohl die axiale Führung als auch das Abheben zur sicheren Führung bei Rohrausdehnung.Das Gleitelement FMFS passt durch die variabel einsetzbaren Distanzplatten an alle Grundplatten der Rohrschuhe FMPS und lässt sich einfach montieren.
+Funktionsweise / Montage
+Das Gleitelement FMFS gewährt durch den Anbau an die Rohrschuhe FMPS sowohl die axiale Führung als auch das Abheben zur sicheren Führung bei Rohrausdehnung.
+Das Gleitelement FMFS passt durch die variabel einsetzbaren Distanzplatten an alle Grundplatten der Rorhschuhe FMPS und lässt sich einfach montieren.
+Länge: 130 [mm]
+Breite: 35 [mm]
+Stärke: 4,0 [mm]
+Menge: 10 [Stück]
+GTIN (EAN-Code): 4048962339192
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem massiv FMS
+Das Produkt ist von der Kategorie Festpunkt und Gleitelemente
+Das Produkt ist von der Kategorie Rohrschuh Gleitlager FMFS

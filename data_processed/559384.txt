@@ -1,0 +1,28 @@
+Diese Datei beschreibt das Produkt T-Profil 120/50/2 glatt, 6M mit der ID 559384
+T-Profil 120/50/2 glatt, 6M
+T-Profil 120/50/2 glatt, 6M
+fischer vertikales T-Profil 120/50/2 glatt, 6M
+Vertikales T-Profil für ATK 100.
+Das vertikale T-profil ist ein Bestandteil des BWM Unterkonstruktionssystems ATK 100 und die Basis für eine Vielzahl von Lösungen. Es dient zur vertikalen Lastabtragung der Fassadensysteme und wird mit Systemnieten an den Wandhaltern befestigt. Um die thermische Ausdehnung des Profils zu ermöglichen, wird bei der Befestigung zwischen Langlöchern (Gleitpunkten) und Festpunkten unterschieden. Zusammen mit den Wandhaltern und deren Auskragung bestimmt die Geometrie des Vertikalprofils die Ausladung der Fassade. Durch dieses System können auch Toleranzen des Bauuntergrunds ausgeglichen werden. Die Direktbefestigung von Fassadentafeln auf den Vertikalprofilen kann sichtbar genietet/geschraubt oder unsichtbar geklebt erfolgen. Außerdem lassen sich die Profile als Distanzunterkonstruktion und als Basiskonstruktion (z.B. für Horizontalsysteme für verdeckten Befestigungen) einsetzen. Verschiedene Geometrien ermöglichen die Anwendungen für alle Bekleidungsmaterialien. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikales T-Profil für ATK 100.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastabtragung.Verschiedene Abmessungen speziell angepasst an die Anwendung.Oberflächen in unbeschichtet oder schwarz erhältlich.Optimiertes Bohren durch Profilierung.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastabtragung.
+Verschiedene Abmessungen speziell angepasst an die Anwendung.
+Oberflächen in unbeschichtet oder schwarz erhältlich.
+Optimiertes Bohren durch Profilierung.
+Länge: 6000 [mm]
+Breite: 120 [mm]
+Stärke: 2,0 [mm]
+Tiefe: 50 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Vertikalprofil
+System: ['ATK 100']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962420142
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

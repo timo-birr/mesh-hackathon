@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt ATK 106 SZ 20 Hutprofil, 6M mit der ID 565356
+ATK 106 SZ 20 Hutprofil, 6M
+ATK 106 SZ 20 Hutprofil, 6M
+fischer ATK 106 SZ 20 Hutprofil, 6M
+Vertikales Hutprofil für ATK 106 SZ 20.
+Das vertikale Hutprofil ist ein Bestandteil des BWM Systems ATK 101. Es dient zur vertikalen Lastabtragung und wird mit Systemnieten an den Wandhaltern FUH befestigt. Um die thermische Ausdehnung des Profils zu ermöglichen, wird bei der Befestigung zwischen Langlöchern (Gleitpunkten) und Festpunkten unterschieden. Zusammen mit den Wandhaltern FUH und deren Auskragung bestimmt die Geometrie des Vertikalprofils die Ausladung der Fassade. Durch dieses System können auch Toleranzen des Bauuntergrunds ausgeglichen werden. Die Direktbefestigung von Fassadenplatten auf den Vertikalprofilen kann sichtbar genietet/geschraubt oder verdeckt geklebt erfolgen. Außerdem lassen sich die Profile als Distanzunterkonstruktion und als Basiskonstruktion (z.B. für Horizontalsysteme für verdeckte Befestigungen) einsetzen. Verschiedene Geometrien ermöglichen die Anwendungen für alle Bekleidungsmaterialien. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikales Hutprofil für ATK 106 SZ 20.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastübertragung für ATK 106 SZ 20.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastübertragung für ATK 106 SZ 20.
+Länge: 6000 [mm]
+Breite: 96 [mm]
+Tiefe: 50 [mm]
+Breite B: 50 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Horizontalprofil
+System: ['ATK 106 SZ 20']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962384710
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

@@ -1,0 +1,28 @@
+Diese Datei beschreibt das Produkt HP-BS mit der ID 048899
+HP-BS
+HP-BS
+fischer Horizontalprofil HP-BS
+Einhängesystem zur verdeckten Befestigung von schweren Fassadenplatten für vorgehängte hinterlüftete Fassaden.
+Das Horizontalprofil HP BS des Unterkonstruktiontragsystems Bracket Solution light ist aus einem geschlossenen Profil gefertigt und ermöglicht das schnelle Einhängen der Fassadenplatten dank der geometrisch abgestimmten Agraffen. Zusätzlich werden die, über die Agraffen auf das Horizontalprofil einwirkenden Lasten aus der Fassade, auf die Vertikalprofile weitergeleitet. Die Profile werden standardmäßig in 6 m Länge angeboten. Die horizontalen Profile werden mit Gleitbefestigern GLB und Nieten an den vertikalen Profilen befestigt, um die thermische Ausdehnung des Profils zu ermöglichen.
+Einhängesystem zur verdeckten Befestigung von schweren Fassadenplatten für vorgehängte hinterlüftete Fassaden.
+AnwendungenAls Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesHorizontale Lastabtragung.Kompatibel mit Einhängeagraffen BS.Geschlossenes Profil für höchste Lasten.
+VorteileErmöglichen eine optimierte horizontale Lastabtragung durch die Weiterleitung an die Vertikalprofile.Durch die aufeinander abgestimmten Geometrien von Agraffen und Horizontalprofilen ist ein schnelles und einfaches Einhängen der Fassadenplatten möglich.Die Horizontalprofile sind universell auf nahezu allen Tragkonstruktionen einsetzbar.Die optimierte Geometrie gewährleistet eine Materialersparnis.Die Kombinationsmöglichkeit von verschiedenen Ausführungen ermöglicht eine erhöhte Flexibilität.
+Funktionsweise / MontageHorizontale Lastabtragung der einwirkenden Lasten und Weiterleitung an die vertikale EbeneAusgleich von bauseitigen Toleranzen zusammen mit den WandhalternGeometrische Abstimmung
+Horizontale Lastabtragung.
+Kompatibel mit Einhängeagraffen BS.
+Geschlossenes Profil für höchste Lasten.
+Länge: 6000 [mm]
+Höhe: 74 [mm]
+Stärke: 3,0 [mm]
+Tiefe: 34 [mm]
+Breite: 34 [mm]
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Horizontalprofil
+System: ['ATK System One']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4006209488997
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Horizontale Tragprofile

@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt PV M 6 mit der ID 020947
+PV M 6
+PV M 6
+fischer Parallelverbinder PV M6
+Einfache Verbindung von zwei Gewindestangen.
+Der fischer Parallelverbinder PV ist ein Verbindungslelement aus Zinkdruckguss. Das Verbindungselement verbindet und verlängert Konstruktionen mit Gewindestäben. Dazu werden die Gewindeteile aneinander gehalten und der Parallelverbinder wird nur übergeschoben. Die Konstruktion wird durch eine Kontermutter gesichert.
+Einfache Verbindung von zwei Gewindestangen.
+AnwendungenEinfacher und schnell montierbarer Verbinder zur Verlängerung bzw. zum Verbinden von GewindestäbenGewindeteile aneinanderhalten, Parallelverbinder überschiebenSicherung durch Kontermutter
+EigenschaftenWerkstoff: Zinkdruckguss
+Top FeaturesSchnelle Montage der Gewindestangen.Einfache und schnelle Höhenregulierung. Dies spart Zeit.Höhenregulierung auch in montiertem Zustand dank Durchgangsbohrung.Mit M 6-Gewinde.
+VorteileDie Bauform des Parallelverbinders ermöglicht eine schnelle Montage der Gewindestangen.Die Länge der Gewindeaufnahme gewährt eine einfache und schnelle Höhenregulierung.Die Durchgangsbohrung des PV ermöglicht jederzeit eine Höhenregulierung im montierten Zustand.
+Funktionsweise / Montage
+Schnelle Montage der Gewindestangen.
+Einfache und schnelle Höhenregulierung. Dies spart Zeit.
+Höhenregulierung auch in montiertem Zustand dank Durchgangsbohrung.
+Mit M 6-Gewinde.
+Für Gewinde: M6
+Max. empf. statische Last (zentr. Zug): 0,30 [kN]
+Menge: 100 [Stück]
+GTIN (EAN-Code): 4006209209479
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Montagezubehör
+Das Produkt ist von der Kategorie Höhenregulierung
+Das Produkt ist von der Kategorie Parallelverbinder PV

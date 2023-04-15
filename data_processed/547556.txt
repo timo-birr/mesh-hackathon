@@ -1,0 +1,28 @@
+Diese Datei beschreibt das Produkt H-Profil ATK103S/ t=2mm, 6M mit der ID 547556
+H-Profil ATK103S/ t=2mm, 6M
+H-Profil ATK103S/ t=2mm, 6M
+fischer horizontales H-Profil ATK103S/ t=2mm, 6M
+Horizontalprofil ATK 103 S für Standardanwendungen.
+Das Horizontalprofil ATK 103 des BWM-Tragsystems ATK 103 ist aus einem offenen C-Profil gefertigt und ermöglicht das schnelle Einhängen der Fassadenplatten dank der geometrisch abgestimmten Agraffen. Zusätzlich werden die, über die Agraffen auf das Horizontalprofil einwirkenden Lasten aus der Fassade, auf die Vertikalprofile weitergeleitet. Die offenen C-Profile werden standardmäßig in 6 m Länge angeboten. Die Horizontalprofile werden mit Systemnieten an den Vertikalprofilen befestigt. Um die thermische Ausdehnung des Profils zu ermöglichen, wird bei der Befestigung zwischen Langlöchern (Gleitpunkten) und Festpunkten unterschieden.
+Horizontalprofil ATK 103 S für Standardanwendungen.
+AnwendungenAls Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesHorizontale Lastabtragung.Die optimierte Geometrie gewährleistet eine Materialersparnis.Schnelles und einfaches Einhängen der Agraffen.Kompatibel mit Einhängeagraffen ATK 103 S.
+VorteileErmöglichen eine optimierte horizontale Lastabtragung durch die Weiterleitung an die Vertikalprofile.Durch die aufeinander abgestimmten Geometrien von Agraffen und Horizontalprofilen ist ein schnelles und einfaches Einhängen der Fassadenplatten möglich.Die Horizontalprofile sind universell auf nahezu allen Tragkonstruktionen einsetzbar.Die optimierte Geometrie gewährleistet eine Materialersparnis.Die Kombinationsmöglichkeit von verschiedenen Ausführungen ermöglicht eine erhöhte Flexibilität.
+Funktionsweise / MontageHorizontale Lastabtragung der einwirkenden Lasten und Weiterleitung an die vertikale EbeneAusgleich von bauseitigen Toleranzen zusammen mit den WandhalternGeometrische Abstimmung
+Horizontale Lastabtragung.
+Die optimierte Geometrie gewährleistet eine Materialersparnis.
+Schnelles und einfaches Einhängen der Agraffen.
+Kompatibel mit Einhängeagraffen ATK 103 S.
+Länge: 6000 [mm]
+Höhe: 62 [mm]
+Stärke: 2,0 [mm]
+Tiefe: 30 [mm]
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Horizontalprofil
+System: ['ATK 103']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962337198
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Horizontale Tragprofile

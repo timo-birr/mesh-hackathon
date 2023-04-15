@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt Thermostop 40x150x6/11 mit der ID 546156
+Thermostop 40x150x6/11
+Thermostop 40x150x6/11
+fischer Thermostop 40x150x6/11
+Thermisches Trennelement für FLH Wandhalter.
+Der Thermostop aus Hart-PVC dient zur Reduktion der Wärmebrücken, indem er den Wandhalter FLH vom Bauuntergrund trennt. Er wird vor der Befestigung des Wandhalters mittels Klebestreifen an dessen Auflagefläche montiert. Eine verringerte Wärmebrücke trägt zu einer besseren Energieeffizienz des Gebäudes bei.
+Thermisches Trennelement für FLH Wandhalter.
+Top FeaturesThermische Trennung zwischen Verankerungsgrund und Wandhalter.Speziell an Lochbild des Wandhalters angepasst.Einfache Montage an den Wandhalter mittels Kleben.
+VorteileThermische Trennung zwischen Verankerungsgrund und Wandhalter.Speziell an Lochbild des Wandhalters angepasst.Einfache Montage an den Wandhalter mittels Kleben.
+Funktionsweise / MontageDurch eine zusätzliche thermische Trennung zwischen Wandhalter und Bauuntergrund wird der Wärmedurchgangskoeffizients (chi-Wert) der Fassade reduziert
+Thermische Trennung zwischen Verankerungsgrund und Wandhalter.
+Speziell an Lochbild des Wandhalters angepasst.
+Einfache Montage an den Wandhalter mittels Kleben.
+Breite: 40 [mm]
+Höhe: 150 [mm]
+Abmessungen: 11 x 20 [mm]
+Werkstoff / Korrosionsschutz: PVC
+System: ['ATK 100']
+Inhalt: 50 x Thermostop
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962327250
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Montagezubehör Unterkonstruktion
+Das Produkt ist von der Kategorie Thermische Trennelemente

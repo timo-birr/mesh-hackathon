@@ -1,0 +1,30 @@
+Diese Datei beschreibt das Produkt FCN 10 mit der ID 077409
+FCN 10
+FCN 10
+fischer Schiebemutter FCN 10
+Verbindungselement - Schiebemutter FCN.
+fischer Schiebemutter FCN ist eine einfache Hammerkopfmutter für die Montage in FUS-Schienen, geeignet um verschiedene Anbauteile und Rohrschellen mit der Montageschiene zu verbinden.
+Verbindungselement - Schiebemutter FCN.
+AnwendungenEinfache Hammerkopfmutter für die Montage in FUS SchienenVerbindung von verschiedenen Anbauteilen und Rohrschellen mit der Montageschiene
+EigenschaftenWerkstoff: Stahl mit min. Zugfestigkeit von 415 N/mm²Verzinkung: Galvanisch verzinkt
+Top FeaturesZur einfachen Anbindung von Anbauteilen und Rohrschellen mittels Gewindestiften und Halteklauen an FUS SchienenAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDie Verzahnung der Schiebemutter gibt sicheren Halt in der FUS-Schiene.
+Funktionsweise / Montage
+Zur einfachen Anbindung von Anbauteilen und Rohrschellen mittels Gewindestiften und Halteklauen an FUS Schienen
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Gewinde: M10
+Stärke: 8,0 [mm]
+Max. empfohlene zentr. Zuglast für FUS 1,5 mm: 4,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,0 mm: 5,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,5 mm: 8,0 [kN]
+Max. empfohlener Querzug für FUS 1,5 mm: 2,0 [kN]
+Max. empfohlener Querzug für FUS 2,0/2,5 mm: 2,5 [kN]
+Anzugsdrehmoment bei Schraubengüte ≥ 8.8: 40 [N·m]
+Menge: 100 [Stück]
+GTIN (EAN-Code): 4006209774090
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Verbindungselemente
+Das Produkt ist von der Kategorie Schiebemutter FCN

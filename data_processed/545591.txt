@@ -1,0 +1,23 @@
+Diese Datei beschreibt das Produkt BWM-Spezialniet SNA 5 x 12 K14 mit der ID 545591
+BWM-Spezialniet SNA 5 x 12 K14
+BWM-Spezialniet SNA 5 x 12 K14
+fischer BWM-Spezialniet SNA 5 x 12 K14
+Spezialniet zum Verbinden von Systemkomponenten.
+Der Spezialniet ist das Hauptverbindungsmittel zum Befestigen von Systemkomponenten. Er wird verwendet, um z.B. Wandhalter und Tragprofile oder ATK 103 Horizontalprofile mit Vertikalprofilen zu verbinden.
+Spezialniet zum Verbinden von Systemkomponenten.
+EigenschaftenAluminium oder Edelstahl
+Top FeaturesSichere Verbindung von tragenden Systemkomponenten.Grün eloxiert.
+VorteileErmöglicht eine sichere Verbindung durch Formschluss bei Niet- und Schraubbefestigungen.Schnelle und einfache Montage mit gängigen Setzwerkzeugen.Befestigung als Fest- und Gleitpunkte möglich.
+Funktionsweise / MontageZur Verbindung der einzelnen Unterkonstruktionselemente mittels Verbindung, VerschraubenVernieten, Klemmung
+Sichere Verbindung von tragenden Systemkomponenten.
+Grün eloxiert.
+Länge: 12 [mm]
+Durchmesser: 5 [mm]
+Kopf-Ø: 13,6 [mm]
+Material: Aluminium
+System: ['ATK 101', 'ATK 101', 'ATK 102', 'ATK 106 SZ 20', 'ATK 107', 'ATK System One']
+Menge: 500 [Stück]
+GTIN (EAN-Code): 4048962323047
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Montagezubehör Unterkonstruktion
+Das Produkt ist von der Kategorie Verbindungsmittel

@@ -1,0 +1,23 @@
+Diese Datei beschreibt das Produkt SB M 10 mit der ID 079681
+SB M 10
+SB M 10
+fischer Schiebebügel SB M10
+Gleitelement zur Aufnahme von axialen Längenänderungen.
+Der fischer Schiebebügel SB ist ein Gleitelement mit einem langen Schiebeweg zur Aufnahme von axialen Längenänderungen von Rohrleitungen. Die Bauform des Schiebebügels lässt eine sichere und leicht laufende Rohraufhängung zu. Gewinde M 10.
+Gleitelement zur Aufnahme von axialen Längenänderungen.
+AnwendungenGleitelement mit langem Schiebeweg zur Aufnahme von axialen Längenänderungen von RohrleitungenMontage des Gleitelements entsprechend den zu erwartenden Längenausdehnungen (kein Verlust an Schiebewegen oder Behinderung des Gleitens)
+EigenschaftenWerkstoff: Stahl DD11 (Werkstoff-Nr. 1.0332) nach DIN EN 10111Verzinkung: galvanisch verzinkt, mind. 3 µm
+Top FeaturesBrandschutzprüfung F120.Muster-Leitungsanlagen-Richtlinien Prüfung MLAR F30.
+VorteileDie Bauform des Schiebebügels lässt eine sichere und leichtlaufende Rohraufhängung zu.Der Schiebebügel ist optimal geeignet zur Aufnahme der axialen Längenausdehnungen von Rohrleitungen.
+Funktionsweise / Montage
+Brandschutzprüfung F120.
+Muster-Leitungsanlagen-Richtlinien Prüfung MLAR F30.
+Brandprüfung: Ja
+Anschlussgewinde: M10
+Höhe: 90 [mm]
+Max. empf. Last (zentr. Zug): 0,65 [kN]
+Menge: 25 [Stück]
+GTIN (EAN-Code): 4006209796818
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Gleitelemente
+Das Produkt ist von der Kategorie Schiebebügel SB

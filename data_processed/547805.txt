@@ -1,0 +1,29 @@
+Diese Datei beschreibt das Produkt FMC 90 - 1500 mit der ID 547805
+FMC 90 - 1500
+FMC 90 - 1500
+fischer Auslegerkonsole FMC 90-1500
+Montageprofile mit angeschweißter Grundplatte zur Befestigung von schweren Rohrleitungen
+Die Auslegerkonsole FMC ist als zweites Basiselement des fischer Massiven Schienensystems FMS für die Befestigung von schweren Rohrtrassen entlang der Wand geeignet. Die Auslegerkonsole wird durch die Langlöcher in der Grundplatte direkt am Untergrund befestigt. fischer bietet Standardlängen von 500 - 1.500 mm, was ein aufwendiges Ablängen am Einsatzort vermeidet. Dies spart Zeit und Kosten. Die Ausführung in Feuerverzinkung mit hoher Schichtdicke eignet sich für die Installationen im Freien und in korrosiver Umgebung.
+Montageprofile mit angeschweißter Grundplatte zur Befestigung von schweren Rohrleitungen
+AnwendungenEinfache und sichere Befestigung von schweren Rohrleitungen entlang der Wand.
+EigenschaftenWerkstoff Grundplatte: Stahl S235JR (Werkstoff Nr. 1.0038) nach DIN EN 10025-2Werkstoff Profil: Stahl S355MC (Werkstoff Nr. 1.0976) nach DIN EN 10149-2Verzinkung: feuerverzinkt, min. 75 µm, nach DIN EN ISO 1461
+Top FeaturesDas abgestufte Längensortiment der FMC Auslegerkonsolen lässt eine optimale Anpassung an die Anwendung zu.Die stabile Grundplatte der Konsole bietet einer belastbaren Konstruktion sicheren Halt.Das vollständig feuerverzinkte Produktsortiment gewährleistet eine Verarbeitung vor Ort ohne nachträgliche Beschichtung und vereinfacht und beschleunigt den Montageprozess nachhaltig.
+VorteileDas abgestufte Längensortiment der FMC-Auslegerkonsolen lässt eine optimale Anpassung an die Anwendung zu.Die stabile Grundplatte der Konsole bietet einer belastbaren Konstruktion sicheren Halt.Das vollständig feuerverzinkte Produktsortiment gewährleistet eine Verarbeitung vor Ort ohne nachträgliche Beschichtung und vereinfacht und beschleunigt den Montageprozess nachhaltig.
+Funktionsweise / Montage
+Das abgestufte Längensortiment der FMC Auslegerkonsolen lässt eine optimale Anpassung an die Anwendung zu.
+Die stabile Grundplatte der Konsole bietet einer belastbaren Konstruktion sicheren Halt.
+Das vollständig feuerverzinkte Produktsortiment gewährleistet eine Verarbeitung vor Ort ohne nachträgliche Beschichtung und vereinfacht und beschleunigt den Montageprozess nachhaltig.
+Länge: 1500 [mm]
+Breite: 230 [mm]
+Höhe: 230 [mm]
+Stärke: 15,0 [mm]
+Max. empfohlene Last bei Lastfall 1: 7,80 [kN]
+Max. empfohlene Last bei Lastfall 2: 2,40 [kN]
+Max. empfohlene Last bei Lastfall 3: 7,80 [kN]
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962338706
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem massiv FMS
+Das Produkt ist von der Kategorie Konsolen
+Das Produkt ist von der Kategorie Auslegerkonsole FMC

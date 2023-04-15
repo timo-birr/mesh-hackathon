@@ -1,0 +1,32 @@
+Diese Datei beschreibt das Produkt FHC 20x3 80/square/FP AL mit der ID 565279
+FHC 20x3 80/square/FP AL
+FHC 20x3 80/square/FP AL
+fischer Einhängeagraffe FHC 20x3 80/square/FP AL
+Festpunkt-Agraffe für ATK 103 P20 oder S20 mit quadratischer Lochung.
+Die Festpunktagraffe des horizontalen Tragsystems ATK 103 ist aus einem offenen C-Profil gefertigt und stellt das geometrische Gegenstück zu den Horizontalprofilen ATK 103 dar. Durch diese Kombination lassen sich die mit Hinterschnittankern befestigten Fassadenplatten schnell und effizient einhängen. Die Festpunktagraffen nehmen neben dem Eigengewicht der Fassadenplatte auch anteilig die Windlasten auf und leiten diese auf die Horizontaltragprofile weiter. Die Agraffen lassen sich dank des vorgefertigten Gewindes an der Oberseite mittels einer zusätzlichen Einstellschraube justieren. Die Ausbildung des Festpunkts erfolgt mittels der zugehörigen U-Profile.
+Festpunkt-Agraffe für ATK 103 P20 oder S20 mit quadratischer Lochung.
+AnwendungenAls Einhängeelement in das Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassade.Als Einhängelasche für Einhängemuttern für rein vertikale Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesSchnelles und einfaches Einhängen der Agraffen.Einfache Plattenjustierung mit der Einstellschraube.Fixierung der Agraffe als Festpunkt durch U-Profile.Kompatibel mit Horizontalprofilen ATK 103 P20 oder S20.Geringer Ein- und Aushängeweg.
+VorteileVormontage der Agraffen möglich, somit Zeitersparnis auf der Baustelle.Schnelles und einfaches Einhängen der Fassadenplatten über die aufeinander abgestimmten Geometrien von Agraffe und Horizontalprofil.
+Funktionsweise / MontageLastabtragung der einwirkenden Lasten (Eigengewicht und Wind)Aufnahme der Lasten durch die Verbindung zu den Fassadenplatten durch die HinterschnittankerEinfache Montage mittels herkömmlicher Befestigungsmittel und Hinterschnittankern
+Schnelles und einfaches Einhängen der Agraffen.
+Einfache Plattenjustierung mit der Einstellschraube.
+Fixierung der Agraffe als Festpunkt durch U-Profile.
+Kompatibel mit Horizontalprofilen ATK 103 P20 oder S20.
+Geringer Ein- und Aushängeweg.
+Breite: 80 [mm]
+Höhe: 62 [mm]
+Stärke: 3,0 [mm]
+Tiefe: 20 [mm]
+Loch-Ø: 9,2 [mm]
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Festpunkt
+System: ['ATK 103']
+Menge: 1 [Stück]
+Inhalt: 50 x Agraffe, 50 x Einstellschraube, 100 x U-Fixierung, 100 x Selbstbohrschraube
+GTIN (EAN-Code): 4048962383942
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Clasps
+Das Produkt ist von der Kategorie Agraffen

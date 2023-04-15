@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt ATK 103 Z-Profil 40/15/40, 6M mit der ID 565205
+ATK 103 Z-Profil 40/15/40, 6M
+ATK 103 Z-Profil 40/15/40, 6M
+fischer ATK 103 Z-Profil 40/15/40, 6M
+Z-Profil für ATK 103.
+Das Z-Profil ATK 103 wird hauptsächlich für die Ausführung von Leibungen und Ecken verwendet.
+Z-Profil für ATK 103.
+AnwendungenAls Horizontalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesHorizontale Lastabtragung.
+VorteileErmöglichen eine optimierte horizontale Lastabtragung durch die Weiterleitung an die Vertikalprofile.Durch die aufeinander abgestimmten Geometrien von Agraffen und Horizontalprofilen ist ein schnelles und einfaches Einhängen der Fassadenplatten möglich.Die Horizontalprofile sind universell auf nahezu allen Tragkonstruktionen einsetzbar.Die optimierte Geometrie gewährleistet eine Materialersparnis.Die Kombinationsmöglichkeit von verschiedenen Ausführungen ermöglicht eine erhöhte Flexibilität.
+Funktionsweise / MontageHorizontale Lastabtragung der einwirkenden Lasten und Weiterleitung an die vertikale EbeneAusgleich von bauseitigen Toleranzen zusammen mit den WandhalternGeometrische Abstimmung
+Horizontale Lastabtragung.
+Länge: 6000 [mm]
+Stärke: 2,0 - 3,0 [mm]
+Tiefe: 15 [mm]
+Breite: 78 [mm]
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Typ: Universalprofil
+System: ['ATK 106 SZ 20']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962383201
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Horizontale Tragprofile

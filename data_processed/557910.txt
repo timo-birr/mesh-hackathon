@@ -1,0 +1,24 @@
+Diese Datei beschreibt das Produkt T-Stück 33 für FLH-H mit der ID 557910
+T-Stück 33 für FLH-H
+T-Stück 33 für FLH-H
+fischer T-Stück 33 für FLH-H
+T-Stück für Horizontalhalter FLH-H.
+Das T-Stück ist Bestandteil des Horizontalhalters FLH-H und wird für das horizontale Tragsystem benötigt. Nach der Montage der Wandhalter und der Dämmung wird das T-Stück mit Systemnieten an den Wandhalter montiert. Danach können die Profile horizontal verlegt und mittels Langloch für den Gleitpunkt und Rundloch für den Festpunkt montiert werden.
+T-Stück für Horizontalhalter FLH-H.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVerschiedene Geometrien speziell angepasst an die Anwendung.Kompatibel mit Wandhaltern FLH-H für horizontale Anwendungen.
+VorteileDie horizontale Ausführung ermöglicht eine kostenoptimierte Befestigung.Die Geometrie des Wandhalters ermöglicht eine einfache statische Berechnung und eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Das vordefinierte Lochbild ermöglicht eine schnelle und einfache Montage.
+Funktionsweise / MontageHorizontale Lastabtragung und Lasteinleitung in den BauuntergrundAufnahme der Lasten durch die Verbindung zu den HorizontalprofilenAusgleich von bauseitigen Toleranzen zusammen mit den HorizontalprofilenEinfache Montage mittels herkömmlicher Verbindungs- und Befestigungsmittel
+Verschiedene Geometrien speziell angepasst an die Anwendung.
+Kompatibel mit Wandhaltern FLH-H für horizontale Anwendungen.
+Stärke: 3,0 [mm]
+Typ: Fest-/Gleitpunkt
+System: ['ATK 100']
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Inhalt: 50 x T-Stück
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962405378
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Wandhalter
+Das Produkt ist von der Kategorie Horizontal Wandhalter FLH-H AL

@@ -1,0 +1,21 @@
+Diese Datei beschreibt das Produkt Lüftungsprofil t=1mm, 3M, gvz mit der ID 565707
+Lüftungsprofil t=1mm, 3M, gvz
+Lüftungsprofil t=1mm, 3M, gvz
+fischer Lüftungsprofil t=1mm, 3M, gvz
+Brandbarriere aus Stahlblech.
+Die Brandbarriere aus Stahlblech ist nach Anforderungen der DIN 18516 und der Musterliste der Technischen Baubestimmungen Teil 1, Anlage 2.6/11 geregelt. Das Stahlblech kann sowohl für die vertikalen, als auch besonders für die horizontalen Brandsperren eingesetzt werden. Die Lüftungsöffnungen gewährleisten die nach DIN 18516 vorgeschriebene Mindesthinterlüftung.
+Brandbarriere aus Stahlblech.
+Top FeaturesLüftungsprofil für die Ausbildung von Brandbarrieren.
+VorteileZusätzlicher Mehrwert für das Fassadensystem.Komplettiert das System.
+Funktionsweise / MontageOptionales Zubehör zur Ergänzung des Komplettsystems und dem Angebot eines ganzheitlichen Systems für die Fassade
+Lüftungsprofil für die Ausbildung von Brandbarrieren.
+Länge: 3000 [mm]
+Breite: 90 [mm]
+Stärke: 1,0 [mm]
+Werkstoff / Korrosionsschutz: galvanisch verzinkter Stahl
+System: ['ATK 100']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962388220
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Montagezubehör Unterkonstruktion
+Das Produkt ist von der Kategorie Systemzubehör

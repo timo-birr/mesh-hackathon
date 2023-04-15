@@ -1,0 +1,30 @@
+Diese Datei beschreibt das Produkt FPH 54 mit der ID 018444
+FPH 54
+FPH 54
+fischer Wandhalter FPH 54
+Wandhalter als Festpunkt mit einer Ausladung von 54 mm.
+Der Pi-förmige Wandhalter des Tragsystems ATK SystemOne aus Aluminium bildet die Grundlage für die vertikale Ebene einer Fassadenunterkonstruktion. Er wird mittels fischer Verankerungsmitteln im Bauuntergrund befestigt. Zur Reduktion von Wärmebrücken können die Wandhalter zusätzlich mit Thermostops aus Hart-PVC versehen werden. Um alle gängigen Dämmschichtdicken und Fassadenauskragungen zu ermöglichen, werden die Wandhalter in verschiedenen Ausladungen ausgeführt. Damit die thermischen Ausdehnungen der Profile ausgeglichen werden können, kommen die Wandhalter sowohl als Fest- als auch als Gleitpunkte zum Einsatz. Der Festpunkt nimmt das gesamte Eigengewicht der Fassadenplatten und Unterkonstruktion zusätzlich zu den anteiligen Windlasten auf.
+Wandhalter als Festpunkt mit einer Ausladung von 54 mm.
+AnwendungenAls Wandhalter für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesPi-förmiger Halter zur Abtragung hoher Lasten.Verwendbar als Festpunkt.Durchgangsbohrungen ermöglichen einfache Montage.
+VorteileDer Wandhalter dient zur Aufnahme und Ableitung der auftretenden Lasten des FassadensystemsSie ermöglichen einen Toleranzausgleich des BaugrundsErhältlich als Fest- und GleitpunkthalterAufnahme von thermischen Längenausdehnungen möglich durch Langlöcher beim GleitpunkthalterGrößere Lastaufnahme im Vergleich zu gewöhnlichen L-Wandhaltern
+Funktionsweise / MontageVertikale Lastabtragung und Lasteinleitung in den BauuntergrundAufnahme höherer Lasten durch zweiseitige BefestigungAusgleich von bauseitigen ToleranzenEinfache Montage mittels beidseitiger Befestigung
+Pi-förmiger Halter zur Abtragung hoher Lasten.
+Verwendbar als Festpunkt.
+Durchgangsbohrungen ermöglichen einfache Montage.
+Länge: 54 [mm]
+Breite: 160 [mm]
+Breite B: 50 [mm]
+Höhe: 180 [mm]
+Stärke: 3,0 [mm]
+Abmessungen: 3 x 11x24 [mm]
+Typ: Festpunkt
+System: ['ATK 101']
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Menge: 40 [Stück]
+GTIN (EAN-Code): 4006209184448
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Wandhalter
+Das Produkt ist von der Kategorie Wandhalter FPH

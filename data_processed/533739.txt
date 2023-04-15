@@ -1,0 +1,31 @@
+Diese Datei beschreibt das Produkt PFCN 41 mit der ID 533739
+PFCN 41
+PFCN 41
+fischer Durchsteckverbinder PFCN 41
+Konstruktionselement - Durchsteckverbinder PFCN.
+Das fischer Durchsteckverbinder PFCN 41 dient zur Gestaltung von einfachen Schienenkonstruktionen.
+Konstruktionselement - Durchsteckverbinder PFCN.
+AnwendungenVerbindung von FUS-Schienen und Konstruktionselementen mittels DurchsteckprinzipUniverselle Verwendung für alle Durchsteck-Konstruktionselemente und FUS-Profile
+EigenschaftenWerkstoff Deckel: Stahl DD11 (Werkstoff-Nr. 1.0332) nach DIN EN 10111Werkstoff Schiebemutter: Stahl S420MC, EN 10149-2Werkstoff Sechskantschraube: 8.8 M10-28, DIN 933Werkstoff Kunststoffteile: PolypropylenVerzinkung: galvanisch verzinkt nach DIN 50979, mind. 8 µm
+Top FeaturesEinfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der SchieneAnwendungsgerechter Korrosionsschutz durch galv. VerzinkungZur Anwendung im trockenen Innenbereich
+VorteileDie genaue Passform von Durchsteck-Verbindern und Konstruktionselementen ermöglicht eine schnelle und einfache Schienenverbindung.Die Federwirkung des PFCN gewährleistet im gesetzten Zustand eine einfache und präzise Positionierung in der Schiene.Die Verzahnung des Durchsteck-Verbinders gibt sicheren Halt in der FUS-Schiene.Die Montage mittels Drehung um 90° ermöglicht generell das nachträgliche Einsetzen in eingebaute FUS-Schienen.
+Funktionsweise / Montage
+Einfache Erstellung von Schienenkonstruktionen in Verbindung mit FUS Schienen und PFCN 41
+Schnelle Montage durch 90° Drehung des Durchsteckverbinders PFCN 41 in der Schiene
+Anwendungsgerechter Korrosionsschutz durch galv. Verzinkung
+Zur Anwendung im trockenen Innenbereich
+Gewinde: M10
+Max. empfohlene zentr. Zuglast für FUS 1,5 mm: 4,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,0 mm: 5,0 [kN]
+Max. empfohlene zentr. Zuglast für FUS 2,5 mm: 7,0 [kN]
+Max. empfohlener Querzug für FUS 1,5 mm: 4,0 [kN]
+Max. empfohlener Querzug für FUS 2,0 mm: 4,5 [kN]
+Max. empfohlener Querzug für FUS 2,5 mm: 5,0 [kN]
+Anzugsdrehmoment bei Schraubengüte ≥ 8.8: 40 [N·m]
+Menge: 50 [Stück]
+GTIN (EAN-Code): 4048962225044
+Das Produkt ist von der Kategorie Installationssysteme
+Das Produkt ist von der Kategorie Schienensystem
+Das Produkt ist von der Kategorie Schienensystem universal FUS
+Das Produkt ist von der Kategorie Verbindungselemente
+Das Produkt ist von der Kategorie Durchsteck-Verbinder PFCN

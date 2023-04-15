@@ -1,0 +1,25 @@
+Diese Datei beschreibt das Produkt ATK 102 L-Eckprofil mit der ID 565201
+ATK 102 L-Eckprofil
+ATK 102 L-Eckprofil
+fischer ATK 102 L-Eckprofil
+Vertikales Eckprofil ATK 102.
+Das vertikale Eckprofil ist Bestandteil des BWM Systems ATK 102. Es dient zur vertikalen Lastabtragung der Fassadensysteme und wird mit Systemnieten an den Wandhaltern befestigt. Um die thermische Ausdehnung des Profils zu ermöglichen, wird bei der Befestigung zwischen Langlöchern (Gleitpunkten) und Festpunkten unterschieden. Zusammen mit den Wandhaltern und deren Auskragung bestimmt die Geometrie des Vertikalprofils die Ausladung der Fassade. Durch dieses System können auch Toleranzen des Bauuntergrunds ausgeglichen werden. Die vertikalen ATK 102 Profile dienen als Basis für sichtbare und verdeckte Klammerlösungen. Die Profile sind standardmäßig in 6 m Länge erhältlich.
+Vertikales Eckprofil ATK 102.
+AnwendungenAls Vertikalprofil für Unterkonstruktionssysteme bei vorgehängten hinterlüfteten Fassaden
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesVertikale Lastübertragung.Optimiert für Eckbefestigungen mit ATK 102 Klammern.
+VorteileDie Vertikalprofile ermöglichen den multifunktionalen Einsatz für Direktbefestigungen, als Distanzunterkonstruktion oder als Basiskonstruktion.Die Geometrie des Vertikalprofils ermöglicht eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Die verschiedenem erhältlichen Geometrien sind speziell angepasst an die jeweilige Anwendung.Die Oberflächen sind in unbeschichtet oder schwarz erhältlich.
+Funktionsweise / MontageVertikale Lastabtragung der einwirkenden Lasten und Weiterleitung an die WandhalterAusgleich von bauseitigen Toleranzen zusammen mit den Wandhaltern
+Vertikale Lastübertragung.
+Optimiert für Eckbefestigungen mit ATK 102 Klammern.
+Länge: 6000 [mm]
+Breite: 27 [mm]
+Tiefe: 55 [mm]
+Werkstoff / Korrosionsschutz: Aluminium
+Typ: Vertikalprofil
+System: ['ATK 102']
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962383164
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Unterkonstruktionsprofile
+Das Produkt ist von der Kategorie Vertikale Tragprofile

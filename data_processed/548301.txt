@@ -1,0 +1,29 @@
+Diese Datei beschreibt das Produkt FLH-H 200x80x3/6,5/F-SP AL mit der ID 548301
+FLH-H 200x80x3/6,5/F-SP AL
+FLH-H 200x80x3/6,5/F-SP AL
+fischer Wandhalter FLH-H 200x80x3/6,5/F-SP AL
+Fest-Gleitpunkthalter für ATK 100-H mit Lochung 6,5mm für ein Horizontal-Tragsystem.
+Der winkelförmige Horizontal-Wandhalter des BWM-Tragsystems ATK 100-H aus Aluminium bildet die Grundlage für die horizontale Ebene einer Fassadenunterkonstruktion. Er wird mittels fischer Verankerungsmitteln im Bauuntergrund befestigt. Zur Reduktion von Wärmebrücken können die Wandhalter zusätzlich mit Thermostops aus Hart-PVC versehen werden. Um alle gängigen Dämmschichtdicken und Fassadenauskragungen zur ermöglichen, werden die Wandhalter in verschiedenen Ausladungen ausgeführt. Nach der Montage der Wandhalter und der Dämmung wird das zugehörige T-Stück mit Systemnieten an den Wandhalter montiert. Danach können die Profile horizontal verlegt und mittels Langloch für den Gleitpunkt und Rundloch für den Festpunkt montiert werden. Durch die Erzeugung von Fix- und Gleitpunkten kann die thermische Ausdehnung der Profile ausgeglichen werden.
+Fest-Gleitpunkthalter für ATK 100-H mit Lochung 6,5mm für ein Horizontal-Tragsystem.
+EigenschaftenAluminium (z. B. EN AW 6063, 6061)
+Top FeaturesAufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.Ausgleich von Bautoleranzen möglich.Optimiert für Befestigungsmittel 6,5mm, z.B. für Verankerungen in Stahlrahmen.Auskragungen von 80-320mm.
+VorteileDie horizontale Ausführung ermöglicht eine kostenoptimierte Befestigung.Die Geometrie des Wandhalters ermöglicht eine einfache statische Berechnung und eine optimierte Lastabtragung.Das Zusammenspiel von Wandhalter und Vertikalprofil sorgt für den optimalen Toleranzausgleich im Bauuntergrund.Das vordefinierte Lochbild ermöglicht eine schnelle und einfache Montage.
+Funktionsweise / MontageHorizontale Lastabtragung und Lasteinleitung in den BauuntergrundAufnahme der Lasten durch die Verbindung zu den HorizontalprofilenAusgleich von bauseitigen Toleranzen zusammen mit den HorizontalprofilenEinfache Montage mittels herkömmlicher Verbindungs- und Befestigungsmittel
+Aufnahme und Ableitung der auftretenden Wind- und Eigenlasten des Fassadensystems.
+Ausgleich von Bautoleranzen möglich.
+Optimiert für Befestigungsmittel 6,5mm, z.B. für Verankerungen in Stahlrahmen.
+Auskragungen von 80-320mm.
+Länge: 200 [mm]
+Höhe: 80 [mm]
+Stärke: 3,0 [mm]
+Abmessungen: 1 x 6,5x20 [mm]
+Typ: Fest-/Gleitpunkt
+System: ['ATK 100']
+Material: Aluminium
+Werkstoff / Korrosionsschutz: EN AW 6063 T66
+Inhalt: 100 x Wandhalter
+Menge: 1 [Stück]
+GTIN (EAN-Code): 4048962343724
+Das Produkt ist von der Kategorie Fassadensysteme
+Das Produkt ist von der Kategorie Wandhalter
+Das Produkt ist von der Kategorie Horizontal Wandhalter FLH-H AL

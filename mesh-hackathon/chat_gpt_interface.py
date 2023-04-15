@@ -3,7 +3,8 @@ from langchain.chat_models import ChatOpenAI
 import gradio as gr
 import sys
 import os
-data_dir = "data"
+import deepl
+data_dir = "data_processed"
 index_filename = "index.json"
 key_filename = "key"
 
@@ -50,6 +51,10 @@ class ChatBot:
 
 
     def chat(self, input_text):
+
+        #translator = deepl.Translator(auth_key)
+        #result = translator.translate_text(text, target_lang=target_language)
+        #translated_text = result.text
         response = self.index.query(input_text, response_mode="compact")
         return response.response
 

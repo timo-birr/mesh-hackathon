@@ -1,3 +1,5 @@
+import csv
+
 from gpt_index import SimpleDirectoryReader, LLMPredictor, PromptHelper, GPTSimpleVectorIndex
 from langchain.chat_models import ChatOpenAI
 import gradio as gr
@@ -13,13 +15,14 @@ model = "gpt-3.5-turbo-0301"
 
 
 max_input_size = 65536
-num_outputs = 4096
+num_outputs = 4096 * 4
 max_chunk_overlap = 30
 chunk_size_limit = 50
 
-preparation = {"role": "system", "content": "Verändere den folgenden Text statt der angabe der ID ein "
+preparation = {"role": "system", "content": "Verändere den folgenden Text, sodass statt der Angabe der ID ein "
                                                          "html hyperlink zu https://www.fischer.de/de-de/produkte/ID "
-                                                         "genannt wird. Gib auschließlich den veränderten Text zurück."}
+                                                         "auf den Produktnamen genannt wird, der in einem neuem Tab geöffnet wird. "
+                                            "Gib auschließlich den veränderten Text zurück."}
 
 
 with open(key_filename, 'r') as file:
@@ -58,12 +61,36 @@ class ChatBot:
         self.index = index
         # self.id_bot = id_bot
         self.llm = llm
+        self.image_dict = {}
+
+        # open the CSV file and read the data into the dictionary
+        with open('product_id_url.csv', 'r') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                product_id, url = row
+                self.image_dict[product_id] = url
         self.context = []
 
     def prepare_input(self, input_text):
-        result = "Beantworte die Frage mit einer Liste von Produkten. " + input_text + ". Was is deren ID?"
+        result = "Beantworte die Frage mit einer Liste von Produkten ohne Zusatzinformationen. " + input_text + ". Was ist deren ID?"
         print(result)
         return result
+
+    def insert_images(self, output_text):
+        lines = output_text.split("<br>")
+        output = ""
+        for l in lines:
+            start = l.find('/produkte/') + len('/produkte/')
+            end = l.find('"', start)
+            # extract the id value from the string
+            id = str(int(l[start:end]))
+            if not id in self.image_dict.keys():
+                print(f"invalid id {id}")
+                continue
+            source = self.image_dict[id]
+            image = f"<img src = \"{source}\">"
+            output += l + image + "<br>"
+        return f"<div style = \"height: 200px; overflow-y: auto;\" >{output}</div >"
 
     def prepare_output(self, output_text):
         output_string = output_text
@@ -81,7 +108,6 @@ class ChatBot:
                 last_index += (len(url) - previous_len)
                 output_string = output_string[:start_index] + "(" + url + output_string[end_index:]
         output_string = output_string.replace("\n", "<br>")
-        print(output_string)
         return output_string
 
     def prepare_output_ai(self, ouput_text):
@@ -90,7 +116,7 @@ class ChatBot:
             messages=[preparation, {"role": "user", "content": ouput_text}],
             temperature=0,
         )
-        return response["choices"][0]["message"]["content"]
+        return response["choices"][0]["message"]["content"].replace("\n", "<br>")
 
     def chat(self, input_text):
 
@@ -99,9 +125,11 @@ class ChatBot:
         #translated_text = result.text
         self.context.append("Nutzer: " + input_text)
         input_text = self.prepare_input(input_text)
-        response = self.index.query(input_text,similarity_top_k=20,response_mode="compact")
+        response = self.index.query(input_text,similarity_top_k=15,response_mode="compact")
         response = self.prepare_output_ai(response.response)
-        # response = self.id_bot.query(input_text, response_mode="compact")
+        print(response)
+        response = self.insert_images(response)
+        print(response)
         self.context.append("Assistent: " + response)
         return response
 
@@ -127,9 +155,10 @@ def main():
     chatbot = ChatBot(index, llm)
 
     iface = gr.Interface(fn=chatbot.chat,
-                         inputs=gr.components.Textbox(lines=7, label="Enter your text"),
+                         inputs=gr.components.Textbox(lines=7, label="Was willst du bauen?"),
                          outputs=gr.outputs.HTML(),
-                         title="Custom-trained AI Chatbot")
+                         title="ToolTutor",
+                         output_text_max_length=50000)
 
     iface.launch(share=False)
 

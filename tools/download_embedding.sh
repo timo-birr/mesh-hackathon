@@ -1,0 +1,1 @@
+gdown https://drive.google.com/uc?id=<file_id> -O index.json

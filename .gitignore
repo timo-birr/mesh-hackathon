@@ -26,3 +26,5 @@ node_modules/
 key
 # OS
 *.DS_Store
+
+data_processed/index.json

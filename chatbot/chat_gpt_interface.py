@@ -10,6 +10,7 @@ data_dir = "data_processed"
 index_filename = "index.json"
 key_filename = "key"
 model = "gpt-3.5-turbo-0301"
+url_mapping_path = os.path.join("mappings", "product_id_url.csv")
 
 max_input_size = 65536
 num_outputs = 4096 * 4
@@ -77,7 +78,7 @@ class ChatBot:
 
         # open the CSV file and read the data into the dictionary
         # safe this dict so it is easy to map products to preview images later
-        with open('product_id_url.csv', 'r') as csvfile:
+        with open(url_mapping_path, 'r') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
                 product_id, url = row
@@ -151,8 +152,7 @@ def main():
     iface = gr.Interface(fn=chatbot.chat,
                          inputs=gr.components.Textbox(lines=7, label="Was willst du bauen?"),
                          outputs=gr.outputs.HTML(),
-                         title="ToolTutor",
-                         output_text_max_length=50000)
+                         title="ToolTutor")
 
     iface.launch(share=False)
 

@@ -1,20 +1,20 @@
-[build-system]
-requires = ["setuptools", "setuptools-scm"]
-build-backend = "setuptools.build_meta"
+[tool.poetry]
+name = "mesh_hackaton"
+version = "0.1.0"
+description = "Object Detection Abstract Base Class for ArmarX"
+authors = ["Timo Birr <timo.birr@student.kit.edu>", "Tim Zechmeister <tim@zechmeister-net.de>"]
+maintainers = ["Timo Birr <timo.birr@student.kit.edu>", "Tim Zechmeister <tim@zechmeister-net.de>"]
+packages = [{include = "chatbot"},{include = "data_crawling"}]
 
-[project]
-name = "mesh-heckathon"
-authors = [
-    {name = "Tim Zechmeister", email = "tim@zechmeister-net.de"},
-]
-description = "Fisher solution for mesh hachathon"
-readme = "README.rst"
-requires-python = ">=3.9"
-keywords = ["Fisher", "data"]
+readme = "README.md"
+repository = "https://github.com/timo-birr/mesh-hackathon"
 classifiers = [
-    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3"
 ]
-dynamic = ["version"]
 
-[tool.setuptools.dynamic]
-version = {attr = "mesh-hackathon.VERSION"}
+[tool.poetry.dependencies]
+python = ">=3.9.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

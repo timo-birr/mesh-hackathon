@@ -9,7 +9,6 @@ import openai
 data_dir = "data_processed"
 index_filename = "index.json"
 key_filename = "key"
-id_index = "index.json"
 model = "gpt-3.5-turbo-0301"
 
 max_input_size = 65536
@@ -23,6 +22,7 @@ preparation = {"role": "system", "content": "Verändere den folgenden Text, soda
                                             "Gib auschließlich den veränderten Text zurückund kürze den Text nicht "
                                             "mehr als nötig"}
 
+# this is needed to access the openai api
 with open(key_filename, 'r') as file:
     key_string = file.read()
 
@@ -30,6 +30,14 @@ os.environ["OPENAI_API_KEY"] = key_string
 
 
 def construct_index(directory_path, llm_predictor):
+    """
+    Creates the index to access the data of fischer that is stored in directory_path
+    Additionally writes the created index to directory path
+    Warning this may take a long time ( > 1hour and costs about 3 dollars), also check your openai api rate limits
+    :param directory_path: path to the directory with all preprocessed text files that contain the product info
+    :param llm_predictor: the predictor to create the embedding for
+    :return: the resulting index
+    """
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
     documents = SimpleDirectoryReader(directory_path).load_data()
     index = GPTSimpleVectorIndex(documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper)
@@ -50,8 +58,12 @@ def has_non_digits(input_str):
     return False
 
 
-
 def load_index(directory_path):
+    """
+    Convinience Method to load Index from disk
+    :param directory_path: the path to the file where the index is stored (index.json)
+    :return: the loaded index
+    """
     return GPTSimpleVectorIndex.load_from_disk(directory_path)
 
 
@@ -64,17 +76,17 @@ class ChatBot:
         self.image_dict = {}
 
         # open the CSV file and read the data into the dictionary
+        # safe this dict so it is easy to map products to preview images later
         with open('product_id_url.csv', 'r') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
                 product_id, url = row
                 self.image_dict[product_id] = url
-        self.context = []
 
     def prepare_input(self, input_text):
-        result = "Beantworte die Frage mit einer Liste von Produkten der Firma Fischer ohne Zusatzinformationen. " + input_text + ". Was ist deren ID?"
-
-        print(result)
+        # there needs to be context for the model in order for it to know exactly what to do
+        result = "Beantworte die Frage mit einer Liste von Produkten der Firma Fischer ohne Zusatzinformationen. " + \
+                 input_text + ". Was ist deren ID?"
         return result
 
     def insert_images(self, output_text):
@@ -97,24 +109,6 @@ class ChatBot:
             output += l + image + "<br>"
         return f"<div style = \"height: 600px; overflow-y: auto;\" >{output}</div >"
 
-    def prepare_output(self, output_text):
-        output_string = output_text
-        output_string = output_string.replace("ID:", "")
-        last_index = 0
-        while "(" in output_string[last_index:]:
-            start_index = output_string.find("(", last_index)
-            end_index = output_string.find(")", last_index)
-            last_index = end_index + 2
-            if end_index > start_index:
-                value = output_string[start_index + 1:end_index]
-                previous_len = len(value)
-                value = value.replace(" ", "")
-                url = f"<a href='https://www.fischer.de/de-de/produkte/{value}' target='_blank'> Link</a>"
-                last_index += (len(url) - previous_len)
-                output_string = output_string[:start_index] + "(" + url + output_string[end_index:]
-        output_string = output_string.replace("\n", "<br>")
-        return output_string
-
     def prepare_output_ai(self, ouput_text):
         response = openai.ChatCompletion.create(
             model=model,
@@ -125,14 +119,16 @@ class ChatBot:
 
     def chat(self, input_text):
         input_text = self.prepare_input(input_text)
+        # if the input query is not precise enough the model needs to query to much data which leads to the
+        # model crashing
+        # this is not optimal handling but the fastest to implement
         try:
             response = self.index.query(input_text, similarity_top_k=15, response_mode="compact")
-            print(response)
             response = self.prepare_output_ai(response.response)
-            print(response)
             response = self.insert_images(response)
         except:
             response = "Bitte gib mehr Kontext"
+        # if no valid id could be found the query was perhaps not precise enough
         if response == "":
             response = "Bitte gib mehr Kontext"
         return response
@@ -143,6 +139,7 @@ def main():
     llm = LLMPredictor(ChatOpenAI(temperature=0.0, model_name="gpt-3.5-turbo", max_tokens=num_outputs))
     index_path = os.path.join(data_dir, index_filename)
 
+    # only create index if it does not already exist
     if not os.path.isfile(index_path):
         print("Indexing")
         construct_index(data_dir, llm)
